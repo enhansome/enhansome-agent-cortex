@@ -1,0 +1,2981 @@
+{
+  "items": [
+    {
+      "description": "Multi-agent orchestration, single-agent SDKs, and runtime frameworks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenClaw",
+          "description": "Self-hosted personal AI agent with multi-platform messaging and skill registry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:16:44Z",
+            "owner": "openclaw",
+            "repo": "openclaw",
+            "stars": 386105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hermes Agent",
+          "description": "Tool-using autonomous agent platform with memory, skills, delegation, and MCP support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:08:33Z",
+            "owner": "NousResearch",
+            "repo": "hermes-agent",
+            "stars": 229680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangChain",
+          "description": "Composable framework for building LLM-powered applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:31:03Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoGen",
+          "description": "Multi-agent conversation framework from Microsoft Research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magentic-One",
+          "description": "Multi-agent team for complex web and file tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrewAI",
+          "description": "Role-based multi-agent orchestration framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:09:44Z",
+            "owner": "crewAIInc",
+            "repo": "crewAI",
+            "stars": 57004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LlamaIndex",
+          "description": "Data framework for document agents, retrieval, and workflow orchestration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:56:49Z",
+            "owner": "run-llama",
+            "repo": "llama_index",
+            "stars": 51602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agno",
+          "description": "Framework for building and running agentic software at scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:14:29Z",
+            "owner": "agno-agi",
+            "repo": "agno",
+            "stars": 41682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangGraph",
+          "description": "Library for building stateful multi-agent workflows as graphs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:03:25Z",
+            "owner": "langchain-ai",
+            "repo": "langgraph",
+            "stars": 39569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smolagents",
+          "description": "Lightweight agent framework from Hugging Face.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T18:35:00Z",
+            "owner": "huggingface",
+            "repo": "smolagents",
+            "stars": 28782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Agents SDK for Python",
+          "description": "Official Python SDK for agent workflows, tools, handoffs, and guardrails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:37:53Z",
+            "owner": "openai",
+            "repo": "openai-agents-python",
+            "stars": 28592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantic Kernel",
+          "description": "SDK for integrating LLMs into apps with plugin architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T17:05:12Z",
+            "owner": "microsoft",
+            "repo": "semantic-kernel",
+            "stars": 28445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mastra",
+          "description": "TypeScript framework for building AI applications and agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:28:45Z",
+            "owner": "mastra-ai",
+            "repo": "mastra",
+            "stars": 27153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haystack",
+          "description": "LLM orchestration framework for building search and RAG pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:17:53Z",
+            "owner": "deepset-ai",
+            "repo": "haystack",
+            "stars": 26189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Letta",
+          "description": "Stateful agents with long-term memory (formerly MemGPT).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T18:24:30Z",
+            "owner": "letta-ai",
+            "repo": "letta",
+            "stars": 24220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swarm",
+          "description": "Educational framework for multi-agent handoffs and routines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T17:10:28Z",
+            "owner": "openai",
+            "repo": "swarm",
+            "stars": 21902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google ADK",
+          "description": "Agent Development Kit for building agents with Gemini.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:14:11Z",
+            "owner": "google",
+            "repo": "adk-python",
+            "stars": 21089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PydanticAI",
+          "description": "Type-safe agent framework built around Pydantic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:05:22Z",
+            "owner": "pydantic",
+            "repo": "pydantic-ai",
+            "stars": 19258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElizaOS",
+          "description": "Multi-agent simulation framework for autonomous characters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:13:57Z",
+            "owner": "elizaOS",
+            "repo": "eliza",
+            "stars": 19032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Agent Framework",
+          "description": "Framework for building, orchestrating, and deploying agents with Python and .NET support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:04:32Z",
+            "owner": "microsoft",
+            "repo": "agent-framework",
+            "stars": 12757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rig",
+          "description": "Rust framework for building LLM-powered applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:07:55Z",
+            "owner": "0xPlaygrounds",
+            "repo": "rig",
+            "stars": 8252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claude Agent SDK",
+          "description": "Official Python SDK for building agents on the Claude Code runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:11:11Z",
+            "owner": "anthropics",
+            "repo": "claude-agent-sdk-python",
+            "stars": 7872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Julep",
+          "description": "Stateful agent platform with built-in persistence and task workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T05:17:30Z",
+            "owner": "julep-ai",
+            "repo": "julep",
+            "stars": 6597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AG2",
+          "description": "Open-source AgentOS for building multi-agent systems (evolved from AutoGen).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:39:38Z",
+            "owner": "ag2ai",
+            "repo": "ag2",
+            "stars": 4855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Agents SDK for TypeScript",
+          "description": "Official TypeScript SDK for agent workflows and voice agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:08:49Z",
+            "owner": "openai",
+            "repo": "openai-agents-js",
+            "stars": 3574
+          }
+        }
+      ],
+      "title": "Agent Frameworks"
+    },
+    {
+      "description": "AI agents that write, review, and debug code.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Codex CLI",
+          "description": "OpenAI's open-source coding agent for terminal workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:15:18Z",
+            "owner": "openai",
+            "repo": "codex",
+            "stars": 105593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenHands",
+          "description": "Platform for AI software development agents (formerly OpenDevin).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:24:05Z",
+            "owner": "OpenHands",
+            "repo": "OpenHands",
+            "stars": 83853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cline",
+          "description": "Autonomous coding agent for VS Code with tool use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:46:30Z",
+            "owner": "cline",
+            "repo": "cline",
+            "stars": 66098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goose",
+          "description": "Open-source developer agent governed by the Agentic AI Foundation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:14:29Z",
+            "owner": "aaif-goose",
+            "repo": "goose",
+            "stars": 52738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aider",
+          "description": "AI pair programming in the terminal with git integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-22T14:02:20Z",
+            "owner": "Aider-AI",
+            "repo": "aider",
+            "stars": 48158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Continue",
+          "description": "Open-source AI code assistant for VS Code and JetBrains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:52:47Z",
+            "owner": "continuedev",
+            "repo": "continue",
+            "stars": 35463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE-Agent",
+          "description": "Agent for resolving software engineering tasks from GitHub issues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:08:15Z",
+            "owner": "SWE-agent",
+            "repo": "SWE-agent",
+            "stars": 20053
+          }
+        }
+      ],
+      "title": "Coding Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Everything Claude Code",
+          "description": "Community collection of Claude Code skills, hooks, agents, and configuration patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T22:45:12Z",
+            "owner": "affaan-m",
+            "repo": "ECC",
+            "stars": 239786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-claude-code",
+          "description": "Curated list of Claude Code resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:47:44Z",
+            "owner": "hesreallyhim",
+            "repo": "awesome-claude-code",
+            "stars": 52221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-code-tips",
+          "description": "Community-sourced tips and tricks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-06T01:26:59Z",
+            "owner": "ykdojo",
+            "repo": "claude-code-tips",
+            "stars": 9609
+          }
+        }
+      ],
+      "title": "Claude Code Resources"
+    },
+    {
+      "description": "Agents with voice, vision, and multimodal capabilities.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Whisper",
+          "description": "Open-source speech recognition model from OpenAI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T20:18:29Z",
+            "owner": "openai",
+            "repo": "whisper",
+            "stars": 107184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pipecat",
+          "description": "Framework for building voice and multimodal conversational agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:20:56Z",
+            "owner": "pipecat-ai",
+            "repo": "pipecat",
+            "stars": 14088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiveKit Agents",
+          "description": "Framework for building real-time multimodal AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:24:26Z",
+            "owner": "livekit",
+            "repo": "agents",
+            "stars": 12958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TEN Framework",
+          "description": "Open-source framework for conversational voice AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T13:10:04Z",
+            "owner": "TEN-framework",
+            "repo": "ten-framework",
+            "stars": 11040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultravox",
+          "description": "Fast multimodal LLM for real-time voice AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-12T18:09:40Z",
+            "owner": "fixie-ai",
+            "repo": "ultravox",
+            "stars": 4537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vocode Core",
+          "description": "Modular open-source framework for building voice-based LLM agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-15T22:16:58Z",
+            "owner": "vocodedev",
+            "repo": "vocode-core",
+            "stars": 3783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElevenLabs",
+          "description": "Text-to-speech and voice cloning API for agent voice interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:15:30Z",
+            "owner": "elevenlabs",
+            "repo": "elevenlabs-python",
+            "stars": 3064
+          }
+        }
+      ],
+      "title": "Voice and Multimodal Agents"
+    },
+    {
+      "description": "Hermes Agent runtime, deployment rails, and operator resources.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hermes Agent",
+          "description": "Open-source autonomous AI agent with CLI, gateway, memory, subagents, and broad tool integrations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:08:33Z",
+            "owner": "NousResearch",
+            "repo": "hermes-agent",
+            "stars": 229680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hermes Agent Self-Evolution",
+          "description": "Evolutionary self-improvement framework for optimizing Hermes Agent prompts, skills, and code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T11:53:04Z",
+            "owner": "NousResearch",
+            "repo": "hermes-agent-self-evolution",
+            "stars": 4997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hermes Paperclip Adapter",
+          "description": "Adapter for running Hermes Agent as a managed employee inside Paperclip.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-04T05:44:23Z",
+            "owner": "NousResearch",
+            "repo": "hermes-paperclip-adapter",
+            "stars": 1797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hermes-fly",
+          "description": "Fly.io deployment and operations CLI for Hermes Agent with deploy, logs, doctor, and teardown workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-22T16:54:25Z",
+            "owner": "alexfazio",
+            "repo": "hermes-fly",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Hermes Stack"
+    },
+    {
+      "description": "Terminal-based agent interfaces and developer tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hermes Agent",
+          "description": "CLI and gateway agent runtime with tools, memory, delegation, and automation support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:08:33Z",
+            "owner": "NousResearch",
+            "repo": "hermes-agent",
+            "stars": 229680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gemini CLI",
+          "description": "Google's command-line interface for Gemini models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:19:22Z",
+            "owner": "google-gemini",
+            "repo": "gemini-cli",
+            "stars": 106496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codex CLI",
+          "description": "Open-source coding agent from OpenAI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:15:18Z",
+            "owner": "openai",
+            "repo": "codex",
+            "stars": 105593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lazygit",
+          "description": "Terminal UI for git commonly paired with coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:28:18Z",
+            "owner": "jesseduffield",
+            "repo": "lazygit",
+            "stars": 81276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux",
+          "description": "Terminal multiplexer for running agents in persistent sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T10:26:59Z",
+            "owner": "tmux",
+            "repo": "tmux",
+            "stars": 48582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zellij",
+          "description": "Terminal workspace with plugin system for agent integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T10:26:33Z",
+            "owner": "zellij-org",
+            "repo": "zellij",
+            "stars": 34864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glow",
+          "description": "Terminal Markdown renderer useful for agent output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T20:56:16Z",
+            "owner": "charmbracelet",
+            "repo": "glow",
+            "stars": 26851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm",
+          "description": "CLI tool for interacting with LLMs from the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:20:08Z",
+            "owner": "simonw",
+            "repo": "llm",
+            "stars": 12354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aichat",
+          "description": "All-in-one LLM CLI with chat, shell assistant, RAG, and agent features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-23T11:16:42Z",
+            "owner": "sigoden",
+            "repo": "aichat",
+            "stars": 10348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sgpt",
+          "description": "Command-line productivity tool powered by LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T21:31:30Z",
+            "owner": "tbckr",
+            "repo": "sgpt",
+            "stars": 457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hermes-fly",
+          "description": "CLI wizard to deploy and operate Hermes Agent on Fly.io.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-22T16:54:25Z",
+            "owner": "alexfazio",
+            "repo": "hermes-fly",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "CLI and TUI Tools"
+    },
+    {
+      "description": "Execution sandboxes and runtime platforms for safely running agent actions and generated code.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Daytona",
+          "description": "Secure and elastic runtime infrastructure for AI-generated code execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-24T07:12:07Z",
+            "owner": "daytonaio",
+            "repo": "daytona",
+            "stars": 72022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firecracker",
+          "description": "Secure and fast microVM technology for isolated agent execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T14:23:40Z",
+            "owner": "firecracker-microvm",
+            "repo": "firecracker",
+            "stars": 36028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NemoClaw",
+          "description": "NVIDIA tooling for running OpenClaw inside an OpenShell sandbox with managed inference.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:11:19Z",
+            "owner": "NVIDIA",
+            "repo": "NemoClaw",
+            "stars": 22139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CUA",
+          "description": "Open-source infrastructure for computer-use agents with sandboxes, SDKs, and benchmarks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T04:14:31Z",
+            "owner": "trycua",
+            "repo": "cua",
+            "stars": 21285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gVisor",
+          "description": "Application kernel for containers that adds a strong isolation boundary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:36:58Z",
+            "owner": "google",
+            "repo": "gvisor",
+            "stars": 19069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "E2B",
+          "description": "Open-source secure cloud sandbox environment for AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:10:45Z",
+            "owner": "e2b-dev",
+            "repo": "E2B",
+            "stars": 13371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kata Containers",
+          "description": "Lightweight VM-based container runtime for stronger workload isolation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:55:40Z",
+            "owner": "kata-containers",
+            "repo": "kata-containers",
+            "stars": 8527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RunPod Python SDK",
+          "description": "Python SDK for RunPod serverless and worker-based AI workloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T11:44:40Z",
+            "owner": "runpod",
+            "repo": "runpod-python",
+            "stars": 305
+          }
+        }
+      ],
+      "title": "Agent Runtime Infrastructure"
+    },
+    {
+      "description": "Open protocols, SDKs, servers, clients, and registries for connecting agents to tools, other agents, interfaces, and editors.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome MCP Servers",
+          "description": "Curated list of MCP server implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T03:09:55Z",
+            "owner": "punkpeye",
+            "repo": "awesome-mcp-servers",
+            "stars": 92179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Reference Servers",
+          "description": "Official reference implementations for Model Context Protocol servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T02:41:59Z",
+            "owner": "modelcontextprotocol",
+            "repo": "servers",
+            "stars": 89508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Context7 MCP",
+          "description": "MCP server that retrieves current, version-specific library documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:12:13Z",
+            "owner": "upstash",
+            "repo": "context7",
+            "stars": 60665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chrome DevTools MCP",
+          "description": "Official Chrome DevTools MCP server for coding and browser automation agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:14:00Z",
+            "owner": "ChromeDevTools",
+            "repo": "chrome-devtools-mcp",
+            "stars": 49055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playwright MCP",
+          "description": "MCP server for browser automation via Playwright.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:16:20Z",
+            "owner": "microsoft",
+            "repo": "playwright-mcp",
+            "stars": 36065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub MCP Server",
+          "description": "Official MCP server for GitHub workflows and repository actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T13:40:55Z",
+            "owner": "github",
+            "repo": "github-mcp-server",
+            "stars": 32198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastMCP",
+          "description": "Pythonic framework for building MCP servers and clients quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T19:27:46Z",
+            "owner": "PrefectHQ",
+            "repo": "fastmcp",
+            "stars": 27197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent2Agent (A2A)",
+          "description": "Linux Foundation protocol for communication between independent agent applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T11:44:58Z",
+            "owner": "a2aproject",
+            "repo": "A2A",
+            "stars": 25322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Python SDK",
+          "description": "Official Python SDK for building MCP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:45:08Z",
+            "owner": "modelcontextprotocol",
+            "repo": "python-sdk",
+            "stars": 23998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP for Beginners",
+          "description": "Cross-language curriculum and practical examples for learning MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T20:16:31Z",
+            "owner": "microsoft",
+            "repo": "mcp-for-beginners",
+            "stars": 16976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AG-UI",
+          "description": "Event-based protocol for connecting agent backends to interactive user interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:31:49Z",
+            "owner": "ag-ui-protocol",
+            "repo": "ag-ui",
+            "stars": 15279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP TypeScript SDK",
+          "description": "Official TypeScript SDK for building MCP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T07:12:54Z",
+            "owner": "modelcontextprotocol",
+            "repo": "typescript-sdk",
+            "stars": 13155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Inspector",
+          "description": "Official inspector and debugging tool for MCP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:48:06Z",
+            "owner": "modelcontextprotocol",
+            "repo": "inspector",
+            "stars": 10653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Go SDK",
+          "description": "Go implementation of the Model Context Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T12:29:17Z",
+            "owner": "mark3labs",
+            "repo": "mcp-go",
+            "stars": 9000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Specification Repo",
+          "description": "Canonical specification and documentation repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:57:45Z",
+            "owner": "modelcontextprotocol",
+            "repo": "modelcontextprotocol",
+            "stars": 8936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Agent",
+          "description": "Framework patterns for building agents on top of MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-25T16:35:16Z",
+            "owner": "lastmile-ai",
+            "repo": "mcp-agent",
+            "stars": 8502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Registry",
+          "description": "Community registry service for discovering MCP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T23:34:43Z",
+            "owner": "modelcontextprotocol",
+            "repo": "registry",
+            "stars": 7140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Client Protocol",
+          "description": "Open protocol between coding agents and editors or IDEs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T02:51:15Z",
+            "owner": "agentclientprotocol",
+            "repo": "agent-client-protocol",
+            "stars": 3961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Rust SDK",
+          "description": "Official Rust SDK for building MCP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T18:34:40Z",
+            "owner": "modelcontextprotocol",
+            "repo": "rust-sdk",
+            "stars": 3795
+          }
+        }
+      ],
+      "title": "Agent Protocols and MCP Ecosystem"
+    },
+    {
+      "description": "Instruction-writing craft: system prompts, response framing, and reusable prompt templates. Focus here on what to ask and how to phrase it at the prompt layer.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-chatgpt-prompts",
+          "description": "Collection of prompt examples for ChatGPT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T03:49:09Z",
+            "owner": "f",
+            "repo": "prompts.chat",
+            "stars": 167071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fabric",
+          "description": "Framework for augmenting humans using AI with curated prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T20:55:42Z",
+            "owner": "danielmiessler",
+            "repo": "Fabric",
+            "stars": 43419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSPy",
+          "description": "Framework for programming with foundation models instead of prompting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:41:42Z",
+            "owner": "stanfordnlp",
+            "repo": "dspy",
+            "stars": 37154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Promptfoo",
+          "description": "Testing and evaluation framework for LLM prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:15:47Z",
+            "owner": "promptfoo",
+            "repo": "promptfoo",
+            "stars": 24185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "System Prompts",
+          "description": "Collection of system prompts for various AI models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-11T16:44:27Z",
+            "owner": "mustvlad",
+            "repo": "ChatGPT-System-Prompts",
+            "stars": 1222
+          }
+        }
+      ],
+      "title": "Prompt Engineering"
+    },
+    {
+      "description": "Harnesses, benchmarks, and evaluation frameworks for measuring agent quality and reliability.",
+      "items": [],
+      "title": "Agent Harnessing and Evaluation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "browser-use",
+          "description": "Framework for browser task automation and agent web interaction loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:33:21Z",
+            "owner": "browser-use",
+            "repo": "browser-use",
+            "stars": 108991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoGen agbench",
+          "description": "Benchmark runner for AutoGen agent workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stagehand",
+          "description": "Browser automation framework for agentic web workflows and reproducible runs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:01:38Z",
+            "owner": "browserbase",
+            "repo": "stagehand",
+            "stars": 23926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE-bench",
+          "description": "Canonical benchmark for coding agents on real GitHub issue tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:11:44Z",
+            "owner": "SWE-bench",
+            "repo": "SWE-bench",
+            "stars": 5626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentBench",
+          "description": "Multi-domain benchmark suite for evaluating LLMs as agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T17:01:05Z",
+            "owner": "THUDM",
+            "repo": "AgentBench",
+            "stars": 3664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSWorld",
+          "description": "Open-ended benchmark environment for desktop computer-use agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:12:29Z",
+            "owner": "xlang-ai",
+            "repo": "OSWorld",
+            "stars": 3078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inspect AI",
+          "description": "Open-source framework for reproducible LLM and agent evaluations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:33:35Z",
+            "owner": "UKGovernmentBEIS",
+            "repo": "inspect_ai",
+            "stars": 2531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLE-bench",
+          "description": "Benchmark harness for autonomous ML engineering tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-24T17:33:44Z",
+            "owner": "openai",
+            "repo": "mle-bench",
+            "stars": 1689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebArena",
+          "description": "Real-world web task benchmark environment for browser agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T21:16:00Z",
+            "owner": "web-arena-x",
+            "repo": "webarena",
+            "stars": 1576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tau-Bench",
+          "description": "Realistic interactive benchmark for measuring agent reliability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T17:36:06Z",
+            "owner": "sierra-research",
+            "repo": "tau-bench",
+            "stars": 1377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrowserGym",
+          "description": "Gym-style environment for training and evaluating browser agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T18:09:30Z",
+            "owner": "ServiceNow",
+            "repo": "BrowserGym",
+            "stars": 1315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCUA",
+          "description": "Open foundation stack for building and evaluating computer-use agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-25T01:46:42Z",
+            "owner": "xlang-ai",
+            "repo": "OpenCUA",
+            "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentDojo",
+          "description": "Security and robustness benchmark suite for tool-using agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T10:01:31Z",
+            "owner": "ethz-spylab",
+            "repo": "agentdojo",
+            "stars": 742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentEvals",
+          "description": "Evaluation utilities for scoring agent trajectories and outcomes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T06:50:13Z",
+            "owner": "langchain-ai",
+            "repo": "agentevals",
+            "stars": 692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JailbreakBench",
+          "description": "Open robustness benchmark for measuring jailbreak resistance in language models and agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-04T11:30:46Z",
+            "owner": "JailbreakBench",
+            "repo": "jailbreakbench",
+            "stars": 651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentLab",
+          "description": "Research platform for developing and evaluating web agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T18:09:43Z",
+            "owner": "ServiceNow",
+            "repo": "AgentLab",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppWorld",
+          "description": "Multi-application environment for benchmarking autonomous task completion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-17T22:41:42Z",
+            "owner": "StonyBrookNLP",
+            "repo": "appworld",
+            "stars": 480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCPMark",
+          "description": "Stress-testing benchmark for evaluating model and agent capability on MCP tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-12T10:57:12Z",
+            "owner": "eval-sys",
+            "repo": "mcpmark",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WorkArena",
+          "description": "Enterprise task benchmark for browser-based agent workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T18:29:28Z",
+            "owner": "ServiceNow",
+            "repo": "WorkArena",
+            "stars": 265
+          }
+        }
+      ],
+      "title": "Benchmark Reality Check (real-world tool use)"
+    },
+    {
+      "description": "Obsidian-specific architecture patterns and APIs for using vaults as agent memory backends.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Obsidian Git",
+          "description": "Versioned vault operations for auditable agent writes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:15:56Z",
+            "owner": "Vinzent03",
+            "repo": "obsidian-git",
+            "stars": 11776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataview",
+          "description": "Query engine for structured note metadata and graph-aware retrieval.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-17T20:51:35Z",
+            "owner": "blacksmithgu",
+            "repo": "obsidian-dataview",
+            "stars": 9269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Local REST API Plugin",
+          "description": "Local HTTP interface for external agent integrations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T01:01:46Z",
+            "owner": "coddingtonbear",
+            "repo": "obsidian-local-rest-api",
+            "stars": 2788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-api",
+          "description": "Official API type definitions for plugin development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-14T14:31:59Z",
+            "owner": "obsidianmd",
+            "repo": "obsidian-api",
+            "stars": 2306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced URI",
+          "description": "URI-based automation hooks for cross-tool workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T16:13:35Z",
+            "owner": "Vinzent03",
+            "repo": "obsidian-advanced-uri",
+            "stars": 1190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Juggl",
+          "description": "Advanced graph exploration plugin for complex link topology workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-27T09:10:11Z",
+            "owner": "HEmile",
+            "repo": "juggl",
+            "stars": 816
+          }
+        }
+      ],
+      "title": "Obsidian Vault Architecture for Agents"
+    },
+    {
+      "description": "Safety, red-teaming, and robustness tools for hardening agent behavior.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Promptfoo",
+          "description": "Red-teaming and robustness testing toolkit for LLM systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:15:47Z",
+            "owner": "promptfoo",
+            "repo": "promptfoo",
+            "stars": 24185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "garak",
+          "description": "LLM vulnerability scanning and red-teaming toolkit for security testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T20:23:44Z",
+            "owner": "NVIDIA",
+            "repo": "garak",
+            "stars": 8786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guardrails AI",
+          "description": "Validation and safety guardrails framework for LLM outputs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:45:56Z",
+            "owner": "guardrails-ai",
+            "repo": "guardrails",
+            "stars": 7279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeMo Guardrails",
+          "description": "Toolkit for adding programmable safety and policy guardrails to LLM systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:11:19Z",
+            "owner": "NVIDIA-NeMo",
+            "repo": "Guardrails",
+            "stars": 6932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm-attacks",
+          "description": "Reference implementation and resources for adversarial jailbreak attack evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-02T06:02:18Z",
+            "owner": "llm-attacks",
+            "repo": "llm-attacks",
+            "stars": 4763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyRIT",
+          "description": "Python Risk Identification Tool for testing generative AI systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:13:33Z",
+            "owner": "microsoft",
+            "repo": "PyRIT",
+            "stars": 4287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JailbreakBench",
+          "description": "Open robustness benchmark for measuring jailbreak resistance in language models and agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-04T11:30:46Z",
+            "owner": "JailbreakBench",
+            "repo": "jailbreakbench",
+            "stars": 651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invariant",
+          "description": "Guardrails framework for secure and robust agent development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-12T12:50:28Z",
+            "owner": "invariantlabs-ai",
+            "repo": "invariant",
+            "stars": 445
+          }
+        }
+      ],
+      "title": "Agent Security and Robustness"
+    },
+    {
+      "description": "Configuration files and workflow examples for AI coding tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-cursorrules",
+          "description": "Curated list of Cursor rule files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-30T18:01:29Z",
+            "owner": "PatrickJS",
+            "repo": "awesome-cursorrules",
+            "stars": 40576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trail of Bits Claude Code Config",
+          "description": "Opinionated Claude Code defaults and workflows from a security-focused engineering team.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-02T09:26:12Z",
+            "owner": "trailofbits",
+            "repo": "claude-code-config",
+            "stars": 2060
+          }
+        }
+      ],
+      "title": "Agent Configs and Dotfiles"
+    },
+    {
+      "description": "Hands-on resources for designing, testing, and shipping high-quality agent skills.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "anthropics/skills",
+          "description": "Official production-ready skill examples and reference implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:14:15Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 168586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Skills Specification",
+          "description": "Open format and reference documentation for portable agent skill packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T20:36:04Z",
+            "owner": "agentskills",
+            "repo": "agentskills",
+            "stars": 24203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NVIDIA Agent Skills",
+          "description": "NVIDIA-maintained catalog of skills for CUDA-X libraries, blueprints, and platform tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:57:44Z",
+            "owner": "NVIDIA",
+            "repo": "skills",
+            "stars": 2877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkillsBench",
+          "description": "Benchmark for measuring how agents use skill packages across verifiable tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PDDL",
+            "last_commit": "2026-07-23T19:09:35Z",
+            "owner": "benchflow-ai",
+            "repo": "skillsbench",
+            "stars": 1672
+          }
+        }
+      ],
+      "title": "Skill Engineering and Playbooks"
+    },
+    {
+      "description": "Agent memory architectures, knowledge graphs, and second-brain integrations.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mem0",
+          "description": "Memory layer for AI assistants and agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:35:11Z",
+            "owner": "mem0ai",
+            "repo": "mem0",
+            "stars": 63151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LightRAG",
+          "description": "Simple and fast RAG framework using graph structures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:54:47Z",
+            "owner": "HKUDS",
+            "repo": "LightRAG",
+            "stars": 38814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Khoj",
+          "description": "Personal AI assistant with long-term memory and knowledge search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T01:55:40Z",
+            "owner": "khoj-ai",
+            "repo": "khoj",
+            "stars": 36470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphRAG",
+          "description": "Graph-based retrieval augmented generation from Microsoft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T00:32:29Z",
+            "owner": "microsoft",
+            "repo": "graphrag",
+            "stars": 35462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qdrant",
+          "description": "High-performance vector search engine for agent memory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:46:11Z",
+            "owner": "qdrant",
+            "repo": "qdrant",
+            "stars": 33946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cognee",
+          "description": "Memory management layer for LLM apps using knowledge graphs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:48:01Z",
+            "owner": "topoteretes",
+            "repo": "cognee",
+            "stars": 29982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphiti",
+          "description": "Real-time knowledge graph framework for AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:16:17Z",
+            "owner": "getzep",
+            "repo": "graphiti",
+            "stars": 29869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neo4j",
+          "description": "Graph database platform widely used for agent knowledge stores.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T16:25:48Z",
+            "owner": "neo4j",
+            "repo": "neo4j",
+            "stars": 17057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weaviate",
+          "description": "Vector database with built-in modules for AI workloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:38:32Z",
+            "owner": "weaviate",
+            "repo": "weaviate",
+            "stars": 16725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "txtai",
+          "description": "All-in-one embeddings database for semantic search and workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:42:39Z",
+            "owner": "neuml",
+            "repo": "txtai",
+            "stars": 12883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FalkorDB",
+          "description": "Ultra-fast graph database for AI agent knowledge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:37:59Z",
+            "owner": "FalkorDB",
+            "repo": "FalkorDB",
+            "stars": 5519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zep",
+          "description": "Memory infrastructure and retrieval stack for AI assistants and agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:49:56Z",
+            "owner": "getzep",
+            "repo": "zep",
+            "stars": 4832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memgraph",
+          "description": "In-memory graph database for real-time agent queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T22:26:13Z",
+            "owner": "memgraph",
+            "repo": "memgraph",
+            "stars": 4328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangMem",
+          "description": "Memory management toolkit for building long-horizon agent systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T00:18:37Z",
+            "owner": "langchain-ai",
+            "repo": "langmem",
+            "stars": 1605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ODIN",
+          "description": "Knowledge graph construction tool built on Memgraph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-04T13:24:19Z",
+            "owner": "memgraph",
+            "repo": "odin",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-graph-query",
+          "description": "Query and traverse Obsidian vault graphs programmatically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-21T08:05:26Z",
+            "owner": "azuma520",
+            "repo": "obsidian-graph-query",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Knowledge Graphs and Memory"
+    },
+    {
+      "description": "Tools and SDKs for building AI agents on Solana.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anchor",
+          "description": "Core Solana framework for building and integrating smart contracts and clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:23:17Z",
+            "owner": "otter-sec",
+            "repo": "anchor",
+            "stars": 5111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solana Web3.js",
+          "description": "JavaScript SDK for interacting with the Solana blockchain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T17:10:49Z",
+            "owner": "solana-foundation",
+            "repo": "solana-web3.js",
+            "stars": 2749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangChain Solana Agent Kit",
+          "description": "LangChain tools for Solana agent operations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-14T18:46:54Z",
+            "owner": "sendaifun",
+            "repo": "solana-agent-kit",
+            "stars": 1704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solana Agent Kit",
+          "description": "Toolkit for connecting AI agents to Solana protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-14T18:46:54Z",
+            "owner": "sendaifun",
+            "repo": "solana-agent-kit",
+            "stars": 1704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GOAT SDK",
+          "description": "Open-source toolkit connecting AI agents to 200+ on-chain tools across Solana and EVM chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-02T19:10:23Z",
+            "owner": "goat-sdk",
+            "repo": "goat",
+            "stars": 1008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yellowstone gRPC",
+          "description": "High-throughput real-time Solana data streams for low-latency agents and indexers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:25:27Z",
+            "owner": "rpcpool",
+            "repo": "yellowstone-grpc",
+            "stars": 988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jito-Solana",
+          "description": "MEV-aware Solana client infrastructure for advanced execution agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:53:46Z",
+            "owner": "jito-foundation",
+            "repo": "jito-solana",
+            "stars": 744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solana Kit",
+          "description": "Modern Solana client SDK stack for building high-quality applications and agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:20:58Z",
+            "owner": "anza-xyz",
+            "repo": "kit",
+            "stars": 695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metaplex",
+          "description": "Solana programs for NFTs and digital assets used in agent identity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-13T13:12:17Z",
+            "owner": "metaplex-foundation",
+            "repo": "metaplex-program-library",
+            "stars": 647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Solana AI",
+          "description": "Solana Foundation's curated list of AI-Solana projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T16:18:36Z",
+            "owner": "solana-foundation",
+            "repo": "awesome-solana-ai",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Light Protocol",
+          "description": "ZK compression for scalable on-chain agent state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T12:10:02Z",
+            "owner": "Lightprotocol",
+            "repo": "light-protocol",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helius SDK",
+          "description": "TypeScript SDK for Solana RPC, webhooks, and DAS API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:50:28Z",
+            "owner": "helius-labs",
+            "repo": "helius-sdk",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyth Crosschain",
+          "description": "Oracle infrastructure for low-latency market data used by agent strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:20:10Z",
+            "owner": "pyth-network",
+            "repo": "pyth-crosschain",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solana Actions",
+          "description": "Spec and tools for blockchain-powered actions and blinks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-11T18:32:24Z",
+            "owner": "solana-developers",
+            "repo": "solana-actions",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Switchboard Solana SDK",
+          "description": "Verifiable oracle and data-feed SDK for agent decision systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-08T04:07:09Z",
+            "owner": "switchboard-xyz",
+            "repo": "solana-sdk",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "Solana Agent Infrastructure"
+    },
+    {
+      "description": "On-chain identity, wallets, and trust infrastructure for autonomous AI agents.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Safe",
+          "description": "Multi-signature smart account for EVM agent treasuries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T07:02:10Z",
+            "owner": "safe-fndn",
+            "repo": "safe-smart-account",
+            "stars": 2172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solana Agent Identity",
+          "description": "Agent wallet and identity features in Solana Agent Kit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-14T18:46:54Z",
+            "owner": "sendaifun",
+            "repo": "solana-agent-kit",
+            "stars": 1704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coinbase AgentKit",
+          "description": "Toolkit for giving AI agents programmable wallet capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T13:34:46Z",
+            "owner": "coinbase",
+            "repo": "agentkit",
+            "stars": 1281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UCAN",
+          "description": "User-controlled authorization for decentralized agent capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-08T23:15:02Z",
+            "owner": "ucan-wg",
+            "repo": "spec",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Squads Protocol",
+          "description": "Multisig and smart account protocol for Solana agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-29T12:42:03Z",
+            "owner": "Squads-Protocol",
+            "repo": "v4",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sign-In With Solana",
+          "description": "Wallet-native authentication pattern for Solana apps and agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-13T14:19:36Z",
+            "owner": "phantom",
+            "repo": "sign-in-with-solana",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lit Protocol",
+          "description": "Decentralized key management and programmable signing infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-30T14:53:06Z",
+            "owner": "LIT-Protocol",
+            "repo": "lit-peer",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Agent Identity and Wallets"
+    },
+    {
+      "description": "Payment protocols and infrastructure for autonomous agent transactions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google A2A x402 Extension",
+          "description": "Cryptocurrency payments for the Agent-to-Agent protocol via x402.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T17:46:39Z",
+            "owner": "google-agentic-commerce",
+            "repo": "a2a-x402",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Agentic Commerce",
+          "description": "Curated directory of agent payments and commerce protocols, including x402.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-29T13:59:08Z",
+            "owner": "Merit-Systems",
+            "repo": "awesome-agentic-commerce",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x402 Protocol",
+          "description": "Open HTTP payment protocol using the 402 status code for agent-to-service payments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T20:36:21Z",
+            "owner": "coinbase",
+            "repo": "x402",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "Agent Payments"
+    },
+    {
+      "description": "AI agents for decentralized finance operations and strategy.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ElizaOS DeFi Plugins",
+          "description": "DeFi protocol integrations for ElizaOS agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:13:57Z",
+            "owner": "elizaOS",
+            "repo": "eliza",
+            "stars": 19032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orca Whirlpools SDK",
+          "description": "Solana concentrated liquidity SDK for agent strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:55:55Z",
+            "owner": "orca-so",
+            "repo": "whirlpools",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drift Protocol v2",
+          "description": "On-chain perpetuals protocol infrastructure for autonomous trading agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-08T22:29:56Z",
+            "owner": "velocity-exchange",
+            "repo": "protocol-v2",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raydium SDK",
+          "description": "Solana AMM SDK for agent-driven liquidity provision.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T23:58:48Z",
+            "owner": "raydium-io",
+            "repo": "raydium-sdk-V2",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yearn Vaults",
+          "description": "Automated yield vaults usable as agent strategy backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:47:23Z",
+            "owner": "yearn",
+            "repo": "yearn-vaults-v3",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autonolas",
+          "description": "Framework for building autonomous agent services on-chain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T10:00:11Z",
+            "owner": "valory-xyz",
+            "repo": "open-autonomy",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kamino KLend SDK",
+          "description": "Lending protocol SDK for credit and yield allocation agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-05T15:59:31Z",
+            "owner": "Kamino-Finance",
+            "repo": "klend-sdk",
+            "stars": 58
+          }
+        }
+      ],
+      "title": "DeFi Agents"
+    },
+    {
+      "description": "Quantitative finance frameworks and AI-driven trading systems.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TradingAgents",
+          "description": "Multi-agent LLM framework simulating a trading firm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T15:55:05Z",
+            "owner": "TauricResearch",
+            "repo": "TradingAgents",
+            "stars": 97895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freqtrade",
+          "description": "Open-source algorithmic trading bot in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:14:26Z",
+            "owner": "freqtrade",
+            "repo": "freqtrade",
+            "stars": 53238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qlib",
+          "description": "AI-oriented quantitative investment platform from Microsoft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T08:15:29Z",
+            "owner": "microsoft",
+            "repo": "qlib",
+            "stars": 47354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NautilusTrader",
+          "description": "High-performance algorithmic trading platform in Rust and Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:39:17Z",
+            "owner": "nautechsystems",
+            "repo": "nautilus_trader",
+            "stars": 25458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lean",
+          "description": "Algorithmic trading engine by QuantConnect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T22:36:04Z",
+            "owner": "QuantConnect",
+            "repo": "Lean",
+            "stars": 21189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinGPT",
+          "description": "Open-source financial LLM framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-02T03:23:48Z",
+            "owner": "AI4Finance-Foundation",
+            "repo": "FinGPT",
+            "stars": 21084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hummingbot",
+          "description": "Open-source market making and arbitrage bot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:21:35Z",
+            "owner": "hummingbot",
+            "repo": "hummingbot",
+            "stars": 19434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinRL",
+          "description": "Deep reinforcement learning library for quantitative finance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-13T23:02:18Z",
+            "owner": "AI4Finance-Foundation",
+            "repo": "FinRL",
+            "stars": 15998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VectorBT",
+          "description": "Fast backtesting and analysis library for trading strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T09:14:10Z",
+            "owner": "polakowo",
+            "repo": "vectorbt",
+            "stars": 8658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zipline",
+          "description": "Pythonic algorithmic trading library for backtesting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-06T13:01:54Z",
+            "owner": "stefan-jansen",
+            "repo": "zipline-reloaded",
+            "stars": 1919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix v1",
+          "description": "On-chain central limit order book protocol for low-latency execution agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-13T03:29:46Z",
+            "owner": "Ellipsis-Labs",
+            "repo": "phoenix-v1",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DriftPy",
+          "description": "Python SDK for building Solana-based perp and risk management agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T08:14:03Z",
+            "owner": "velocity-exchange",
+            "repo": "driftpy",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BitQuant",
+          "description": "Multi-agent quantitative analysis framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T17:24:02Z",
+            "owner": "OpenGradient",
+            "repo": "BitQuant",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Quant and Trading Agents"
+    },
+    {
+      "description": "Debugging, tracing, evaluation, and testing tools for AI agents.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LiteLLM",
+          "description": "LLM gateway and proxy with logging, cost tracking, and routing controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:13:00Z",
+            "owner": "BerriAI",
+            "repo": "litellm",
+            "stars": 56212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangFuse",
+          "description": "Open-source LLM engineering platform for tracing and evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:02:07Z",
+            "owner": "langfuse",
+            "repo": "langfuse",
+            "stars": 32999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SigNoz",
+          "description": "OpenTelemetry-native observability platform for traces, logs, and metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:13:55Z",
+            "owner": "SigNoz",
+            "repo": "signoz",
+            "stars": 31830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Opik",
+          "description": "Open-source platform for LLM and agent tracing, evaluation, and monitoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:50:50Z",
+            "owner": "comet-ml",
+            "repo": "opik",
+            "stars": 21342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Evals",
+          "description": "Framework and benchmark registry for evaluating LLM systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T15:29:57Z",
+            "owner": "openai",
+            "repo": "evals",
+            "stars": 19156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepEval",
+          "description": "Open-source LLM evaluation framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:02:48Z",
+            "owner": "confident-ai",
+            "repo": "deepeval",
+            "stars": 17563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portkey",
+          "description": "AI gateway with observability, caching, and fallback routing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-25T13:54:51Z",
+            "owner": "Portkey-AI",
+            "repo": "gateway",
+            "stars": 12703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix",
+          "description": "Open-source AI observability platform from Arize.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:52:22Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenLLMetry",
+          "description": "OpenTelemetry-based observability for LLM applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T08:49:01Z",
+            "owner": "traceloop",
+            "repo": "openllmetry",
+            "stars": 7375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helicone",
+          "description": "Open-source LLM observability and monitoring platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T01:10:06Z",
+            "owner": "Helicone",
+            "repo": "helicone",
+            "stars": 6060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentOps",
+          "description": "Monitoring, cost tracking, and benchmarking for agent workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-25T08:25:03Z",
+            "owner": "AgentOps-AI",
+            "repo": "agentops",
+            "stars": 5769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TruLens",
+          "description": "Open-source framework for evaluating and tracking LLM and agent experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:35:20Z",
+            "owner": "truera",
+            "repo": "trulens",
+            "stars": 3507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weave",
+          "description": "Toolkit for tracking and evaluating LLM applications from W&B.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:16:31Z",
+            "owner": "wandb",
+            "repo": "weave",
+            "stars": 1115
+          }
+        }
+      ],
+      "title": "Agent Observability and Testing"
+    },
+    {
+      "description": "Contributions are welcome. Read the contribution guidelines before opening a pull request. One focused resource per PR keeps review evidence clear.\nFor broken links, outdated descriptions, or missing categories, use the repository's structured issue forms. SUPPORT.md routes broader questions, and SECURITY.md covers private vulnerability reporting.\nMaintenance is best-effort. Inclusion does not mean endorsement, security certification, or a promise that a third-party project will remain available.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "If the directory saves you research time, sponsor its continued maintenance or support the repository with a star.\nSolana:\nBuilt and maintained by Nyk. Follow @nykdotdev. For agent infrastructure, trading systems, and Solana product work, visit Builderz.\nReleased under CC0 1.0 Universal.",
+      "items": [],
+      "title": "Support the project"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:16:48.525Z",
+    "original_repository": "0xNyk/awesome-agent-cortex",
+    "original_repository_sha": "b620a0a8dc201267fffc3697ef0fdd1c2937cce9",
+    "enhanced_repository": "enhansome/enhansome-agent-cortex",
+    "enhanced_repository_description": null,
+    "title": "Awesome Agent Cortex with stars"
+  }
+}
