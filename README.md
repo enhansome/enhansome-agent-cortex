@@ -63,47 +63,47 @@ Some resources appear in more than one section when they serve distinct workflow
 
 Multi-agent orchestration, single-agent SDKs, and runtime frameworks.
 
-* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 393,916 | 🐛 7,726 | 🌐 TypeScript | 📅 2026-11-05 - Self-hosted personal AI agent with multi-platform messaging and skill registry.
-* [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 260,567 | 🐛 52,932 | 🌐 Python | 📅 2026-11-05 - Tool-using autonomous agent platform with memory, skills, delegation, and MCP support.
-* [LangChain](https://github.com/langchain-ai/langchain) ⭐ 149,032 | 🐛 712 | 🌐 Python | 📅 2026-11-05 - Composable framework for building LLM-powered applications.
-* [AutoGen](https://github.com/microsoft/autogen) ⭐ 61,705 | 🐛 1,143 | 🌐 Python | 📅 2026-10-28 - Multi-agent conversation framework from Microsoft Research.
-* [Magentic-One](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one) ⭐ 61,705 | 🐛 1,143 | 🌐 Python | 📅 2026-10-28 - Multi-agent team for complex web and file tasks.
-* [CrewAI](https://github.com/crewAIInc/crewAI) ⭐ 60,510 | 🐛 1,112 | 🌐 Python | 📅 2026-11-05 - Role-based multi-agent orchestration framework.
-* [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 52,809 | 🐛 1,228 | 🌐 Python | 📅 2026-11-03 - Data framework for document agents, retrieval, and workflow orchestration.
-* [LangGraph](https://github.com/langchain-ai/langgraph) ⭐ 44,474 | 🐛 457 | 🌐 Python | 📅 2026-11-04 - Library for building stateful multi-agent workflows as graphs.
-* [Agno](https://github.com/agno-agi/agno) ⭐ 43,063 | 🐛 1,978 | 🌐 Python | 📅 2026-11-05 - Framework for building and running agentic software at scale.
-* [OpenAI Agents SDK for Python](https://github.com/openai/openai-agents-python) ⭐ 30,500 | 🐛 56 | 🌐 Python | 📅 2026-11-05 - Official Python SDK for agent workflows, tools, handoffs, and guardrails.
-* [Smolagents](https://github.com/huggingface/smolagents) ⭐ 30,216 | 🐛 1,042 | 🌐 Python | 📅 2026-11-03 - Lightweight agent framework from Hugging Face.
-* [Mastra](https://github.com/mastra-ai/mastra) ⭐ 29,337 | 🐛 762 | 🌐 TypeScript | 📅 2026-11-05 - TypeScript framework for building AI applications and agents.
-* [Semantic Kernel](https://github.com/microsoft/semantic-kernel) ⭐ 28,734 | 🐛 301 | 🌐 C# | 📅 2026-11-04 - SDK for integrating LLMs into apps with plugin architecture.
-* [Haystack](https://github.com/deepset-ai/haystack) ⭐ 26,925 | 🐛 208 | 🌐 Python | 📅 2026-11-04 - LLM orchestration framework for building search and RAG pipelines.
-* [Letta](https://github.com/letta-ai/letta) ⭐ 25,349 | 🐛 0 | 📅 2026-10-18 - Stateful agents with long-term memory (formerly MemGPT).
-* [Swarm](https://github.com/openai/swarm) ⭐ 22,107 | 🐛 38 | 🌐 Python | 📅 2026-04-15 - Educational framework for multi-agent handoffs and routines.
-* [Google ADK](https://github.com/google/adk-python) ⭐ 22,106 | 🐛 414 | 🌐 Python | 📅 2026-11-05 - Agent Development Kit for building agents with Gemini.
-* [PydanticAI](https://github.com/pydantic/pydantic-ai) ⭐ 21,027 | 🐛 1,751 | 🌐 Python | 📅 2026-11-05 - Type-safe agent framework built around Pydantic.
-* [ElizaOS](https://github.com/elizaOS/eliza) ⭐ 19,769 | 🐛 338 | 🌐 TypeScript | 📅 2026-11-04 - Multi-agent simulation framework for autonomous characters.
-* [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) ⭐ 14,536 | 🐛 899 | 🌐 Python | 📅 2026-11-04 - Framework for building, orchestrating, and deploying agents with Python and .NET support.
-* [Rig](https://github.com/0xPlaygrounds/rig) ⭐ 9,065 | 🐛 123 | 🌐 Rust | 📅 2026-11-05 - Rust framework for building LLM-powered applications.
-* [Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk-python) ⭐ 8,428 | 🐛 611 | 🌐 Python | 📅 2026-11-04 - Official Python SDK for building agents on the Claude Code runtime.
-* [Julep](https://github.com/julep-ai/julep) ⭐ 6,574 | 🐛 6 | 🌐 Python | 📅 2026-08-06 - Stateful agent platform with built-in persistence and task workflows.
-* [AG2](https://github.com/ag2ai/ag2) ⭐ 5,045 | 🐛 64 | 🌐 Python | 📅 2026-11-04 - Open-source AgentOS for building multi-agent systems (evolved from AutoGen).
-* [OpenAI Agents SDK for TypeScript](https://github.com/openai/openai-agents-js) ⭐ 3,966 | 🐛 55 | 🌐 TypeScript | 📅 2026-11-05 - Official TypeScript SDK for agent workflows and voice agents.
-* [LightAgent](https://github.com/wanxingai/LightAgent) ⭐ 1,245 | 🐛 2 | 🌐 Python | 📅 2026-10-28 - Lightweight Python framework for tool-using agents, workflows, MCP/SSE integration, memory, and multi-agent collaboration.
-* [fractal](https://github.com/plasma-ai/fractal) ⭐ 789 | 🐛 7 | 🌐 Python | 📅 2026-10-30 - Runs supported coding-agent CLIs as a recursive hierarchy with per-node Git worktrees, configurable limits, persistent run state, and a live terminal UI.
-* [Hivekeep](https://github.com/MarlBurroW/hivekeep) ⭐ 75 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-04 - Self-hosted platform to run a team of specialized AI agents with persistent memory, a web UI, and chat channels.
+* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 393,992 | 🐛 7,607 | 🌐 TypeScript | 📅 2026-11-06 - Self-hosted personal AI agent with multi-platform messaging and skill registry.
+* [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 260,878 | 🐛 53,073 | 🌐 Python | 📅 2026-11-06 - Tool-using autonomous agent platform with memory, skills, delegation, and MCP support.
+* [LangChain](https://github.com/langchain-ai/langchain) ⭐ 149,106 | 🐛 712 | 🌐 Python | 📅 2026-11-06 - Composable framework for building LLM-powered applications.
+* [AutoGen](https://github.com/microsoft/autogen) ⭐ 61,718 | 🐛 1,147 | 🌐 Python | 📅 2026-10-28 - Multi-agent conversation framework from Microsoft Research.
+* [Magentic-One](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one) ⭐ 61,718 | 🐛 1,147 | 🌐 Python | 📅 2026-10-28 - Multi-agent team for complex web and file tasks.
+* [CrewAI](https://github.com/crewAIInc/crewAI) ⭐ 60,549 | 🐛 1,140 | 🌐 Python | 📅 2026-11-06 - Role-based multi-agent orchestration framework.
+* [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 52,821 | 🐛 1,249 | 🌐 Python | 📅 2026-11-05 - Data framework for document agents, retrieval, and workflow orchestration.
+* [LangGraph](https://github.com/langchain-ai/langgraph) ⭐ 44,530 | 🐛 460 | 🌐 Python | 📅 2026-11-05 - Library for building stateful multi-agent workflows as graphs.
+* [Agno](https://github.com/agno-agi/agno) ⭐ 43,075 | 🐛 1,967 | 🌐 Python | 📅 2026-11-05 - Framework for building and running agentic software at scale.
+* [OpenAI Agents SDK for Python](https://github.com/openai/openai-agents-python) ⭐ 30,523 | 🐛 50 | 🌐 Python | 📅 2026-11-06 - Official Python SDK for agent workflows, tools, handoffs, and guardrails.
+* [Smolagents](https://github.com/huggingface/smolagents) ⭐ 30,223 | 🐛 1,043 | 🌐 Python | 📅 2026-11-03 - Lightweight agent framework from Hugging Face.
+* [Mastra](https://github.com/mastra-ai/mastra) ⭐ 29,365 | 🐛 779 | 🌐 TypeScript | 📅 2026-11-06 - TypeScript framework for building AI applications and agents.
+* [Semantic Kernel](https://github.com/microsoft/semantic-kernel) ⭐ 28,737 | 🐛 302 | 🌐 C# | 📅 2026-11-05 - SDK for integrating LLMs into apps with plugin architecture.
+* [Haystack](https://github.com/deepset-ai/haystack) ⭐ 26,929 | 🐛 199 | 🌐 Python | 📅 2026-11-05 - LLM orchestration framework for building search and RAG pipelines.
+* [Letta](https://github.com/letta-ai/letta) ⭐ 25,358 | 🐛 0 | 📅 2026-10-18 - Stateful agents with long-term memory (formerly MemGPT).
+* [Google ADK](https://github.com/google/adk-python) ⭐ 22,117 | 🐛 405 | 🌐 Python | 📅 2026-11-05 - Agent Development Kit for building agents with Gemini.
+* [Swarm](https://github.com/openai/swarm) ⭐ 22,110 | 🐛 38 | 🌐 Python | 📅 2026-04-15 - Educational framework for multi-agent handoffs and routines.
+* [PydanticAI](https://github.com/pydantic/pydantic-ai) ⭐ 21,041 | 🐛 1,767 | 🌐 Python | 📅 2026-11-06 - Type-safe agent framework built around Pydantic.
+* [ElizaOS](https://github.com/elizaOS/eliza) ⭐ 19,774 | 🐛 402 | 🌐 TypeScript | 📅 2026-11-06 - Multi-agent simulation framework for autonomous characters.
+* [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) ⭐ 14,550 | 🐛 905 | 🌐 Python | 📅 2026-11-05 - Framework for building, orchestrating, and deploying agents with Python and .NET support.
+* [Rig](https://github.com/0xPlaygrounds/rig) ⭐ 9,072 | 🐛 142 | 🌐 Rust | 📅 2026-11-05 - Rust framework for building LLM-powered applications.
+* [Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk-python) ⭐ 8,435 | 🐛 616 | 🌐 Python | 📅 2026-11-04 - Official Python SDK for building agents on the Claude Code runtime.
+* [Julep](https://github.com/julep-ai/julep) ⭐ 6,575 | 🐛 6 | 🌐 Python | 📅 2026-08-06 - Stateful agent platform with built-in persistence and task workflows.
+* [AG2](https://github.com/ag2ai/ag2) ⭐ 5,047 | 🐛 73 | 🌐 Python | 📅 2026-11-05 - Open-source AgentOS for building multi-agent systems (evolved from AutoGen).
+* [OpenAI Agents SDK for TypeScript](https://github.com/openai/openai-agents-js) ⭐ 3,981 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-06 - Official TypeScript SDK for agent workflows and voice agents.
+* [LightAgent](https://github.com/wanxingai/LightAgent) ⭐ 1,243 | 🐛 2 | 🌐 Python | 📅 2026-10-28 - Lightweight Python framework for tool-using agents, workflows, MCP/SSE integration, memory, and multi-agent collaboration.
+* [fractal](https://github.com/plasma-ai/fractal) ⭐ 788 | 🐛 7 | 🌐 Python | 📅 2026-11-05 - Runs supported coding-agent CLIs as a recursive hierarchy with per-node Git worktrees, configurable limits, persistent run state, and a live terminal UI.
+* [Hivekeep](https://github.com/MarlBurroW/hivekeep) ⭐ 75 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-05 - Self-hosted platform to run a team of specialized AI agents with persistent memory, a web UI, and chat channels.
 * [OpenProgram](https://github.com/Fzkuji/OpenProgram) - Self-programming agent runtime with reviewable workflows, DAG context, tools, memory, and multi-agent execution.
 
 ## Coding Agents
 
 AI agents that write, review, and debug code.
 
-* [Codex CLI](https://github.com/openai/codex) ⭐ 133,192 | 🐛 26,464 | 🌐 Rust | 📅 2026-11-05 - OpenAI's open-source coding agent for terminal workflows.
-* [OpenHands](https://github.com/OpenHands/OpenHands) ⭐ 92,664 | 🐛 1,194 | 🌐 TypeScript | 📅 2026-11-05 - Platform for AI software development agents (formerly OpenDevin).
-* [Cline](https://github.com/cline/cline) ⭐ 71,315 | 🐛 1,762 | 🌐 TypeScript | 📅 2026-11-05 - Autonomous coding agent for VS Code with tool use.
-* [Goose](https://github.com/aaif-goose/goose) ⭐ 56,230 | 🐛 557 | 🌐 Rust | 📅 2026-11-04 - Open-source developer agent governed by the Agentic AI Foundation.
-* [Aider](https://github.com/Aider-AI/aider) ⭐ 49,947 | 🐛 1,943 | 🌐 Python | 📅 2026-05-22 - AI pair programming in the terminal with git integration.
-* [Continue](https://github.com/continuedev/continue) ⭐ 36,404 | 🐛 864 | 🌐 TypeScript | 📅 2026-11-04 - Open-source AI code assistant for VS Code and JetBrains.
-* [SWE-Agent](https://github.com/SWE-agent/SWE-agent) ⭐ 20,724 | 🐛 173 | 🌐 Python | 📅 2026-11-02 - Agent for resolving software engineering tasks from GitHub issues.
+* [Codex CLI](https://github.com/openai/codex) ⭐ 133,355 | 🐛 26,620 | 🌐 Rust | 📅 2026-11-06 - OpenAI's open-source coding agent for terminal workflows.
+* [OpenHands](https://github.com/OpenHands/OpenHands) ⭐ 92,746 | 🐛 1,147 | 🌐 TypeScript | 📅 2026-11-06 - Platform for AI software development agents (formerly OpenDevin).
+* [Cline](https://github.com/cline/cline) ⭐ 71,371 | 🐛 1,745 | 🌐 TypeScript | 📅 2026-11-06 - Autonomous coding agent for VS Code with tool use.
+* [Goose](https://github.com/aaif-goose/goose) ⭐ 56,269 | 🐛 557 | 🌐 Rust | 📅 2026-11-06 - Open-source developer agent governed by the Agentic AI Foundation.
+* [Aider](https://github.com/Aider-AI/aider) ⭐ 49,976 | 🐛 1,950 | 🌐 Python | 📅 2026-05-22 - AI pair programming in the terminal with git integration.
+* [Continue](https://github.com/continuedev/continue) ⭐ 36,413 | 🐛 871 | 🌐 TypeScript | 📅 2026-11-05 - Open-source AI code assistant for VS Code and JetBrains.
+* [SWE-Agent](https://github.com/SWE-agent/SWE-agent) ⭐ 20,734 | 🐛 178 | 🌐 Python | 📅 2026-11-02 - Agent for resolving software engineering tasks from GitHub issues.
 * [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - Anthropic's agentic CLI for code generation and editing.
 * [Cursor](https://cursor.com) - AI-first code editor built on VS Code.
 * [Devin](https://devin.ai) - Autonomous software engineering agent by Cognition.
@@ -111,9 +111,9 @@ AI agents that write, review, and debug code.
 
 ### Claude Code Resources
 
-* [Everything Claude Code](https://github.com/affaan-m/ECC) ⭐ 297,258 | 🐛 230 | 🌐 JavaScript | 📅 2026-11-02 - Community collection of Claude Code skills, hooks, agents, and configuration patterns.
-* [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 57,266 | 🐛 1,127 | 🌐 Python | 📅 2026-11-05 - Curated list of Claude Code resources.
-* [claude-code-tips](https://github.com/ykdojo/claude-code-tips) ⭐ 10,304 | 🐛 6 | 🌐 HTML | 📅 2026-09-25 - Community-sourced tips and tricks.
+* [Everything Claude Code](https://github.com/affaan-m/ECC) ⭐ 297,880 | 🐛 236 | 🌐 JavaScript | 📅 2026-11-02 - Community collection of Claude Code skills, hooks, agents, and configuration patterns.
+* [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 57,335 | 🐛 1,145 | 🌐 Python | 📅 2026-11-06 - Curated list of Claude Code resources.
+* [claude-code-tips](https://github.com/ykdojo/claude-code-tips) ⭐ 10,311 | 🐛 6 | 🌐 HTML | 📅 2026-09-25 - Community-sourced tips and tricks.
 * [Claude Code Hooks](https://docs.anthropic.com/en/docs/claude-code/hooks) - Event-driven shell command automation.
 * [Claude Code Skills](https://docs.anthropic.com/en/docs/claude-code/memory#slash-commands-as-custom-skills) - Reusable prompt-driven workflows.
 * [CLAUDE.md Guide](https://docs.anthropic.com/en/docs/claude-code/memory) - Official documentation on memory files.
@@ -130,22 +130,22 @@ AI agents that write, review, and debug code.
 
 Agents with voice, vision, and multimodal capabilities.
 
-* [Whisper](https://github.com/openai/whisper) ⭐ 111,966 | 🐛 181 | 🌐 Python | 📅 2026-08-31 - Open-source speech recognition model from OpenAI.
-* [Pipecat](https://github.com/pipecat-ai/pipecat) ⭐ 17,058 | 🐛 490 | 🌐 Python | 📅 2026-11-04 - Framework for building voice and multimodal conversational agents.
-* [LiveKit Agents](https://github.com/livekit/agents) ⭐ 15,087 | 🐛 894 | 🌐 Python | 📅 2026-11-05 - Framework for building real-time multimodal AI agents.
-* [TEN Framework](https://github.com/TEN-framework/ten-framework) ⭐ 11,219 | 🐛 254 | 🌐 Python | 📅 2026-11-05 - Open-source framework for conversational voice AI agents.
-* [Ultravox](https://github.com/fixie-ai/ultravox) ⭐ 4,582 | 🐛 62 | 🌐 Python | 📅 2025-12-12 - Fast multimodal LLM for real-time voice AI.
+* [Whisper](https://github.com/openai/whisper) ⭐ 112,036 | 🐛 181 | 🌐 Python | 📅 2026-08-31 - Open-source speech recognition model from OpenAI.
+* [Pipecat](https://github.com/pipecat-ai/pipecat) ⭐ 17,082 | 🐛 483 | 🌐 Python | 📅 2026-11-06 - Framework for building voice and multimodal conversational agents.
+* [LiveKit Agents](https://github.com/livekit/agents) ⭐ 15,104 | 🐛 894 | 🌐 Python | 📅 2026-11-06 - Framework for building real-time multimodal AI agents.
+* [TEN Framework](https://github.com/TEN-framework/ten-framework) ⭐ 11,218 | 🐛 257 | 🌐 Python | 📅 2026-11-05 - Open-source framework for conversational voice AI agents.
+* [Ultravox](https://github.com/fixie-ai/ultravox) ⭐ 4,583 | 🐛 62 | 🌐 Python | 📅 2025-12-12 - Fast multimodal LLM for real-time voice AI.
 * [Vocode Core](https://github.com/vocodedev/vocode-core) ⭐ 3,808 | 🐛 2 | 🌐 Python | 📅 2024-11-15 - Modular open-source framework for building voice-based LLM agents.
-* [ElevenLabs](https://github.com/elevenlabs/elevenlabs-python) ⭐ 3,172 | 🐛 58 | 🌐 Python | 📅 2026-11-04 - Text-to-speech and voice cloning API for agent voice interfaces.
+* [ElevenLabs](https://github.com/elevenlabs/elevenlabs-python) ⭐ 3,172 | 🐛 58 | 🌐 Python | 📅 2026-11-05 - Text-to-speech and voice cloning API for agent voice interfaces.
 * [Vapi](https://vapi.ai) - Platform for building and deploying voice AI agents.
 
 ## Hermes Stack
 
 Hermes Agent runtime, deployment rails, and operator resources.
 
-* [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 260,567 | 🐛 52,932 | 🌐 Python | 📅 2026-11-05 - Open-source autonomous AI agent with CLI, gateway, memory, subagents, and broad tool integrations.
-* [Hermes Agent Self-Evolution](https://github.com/NousResearch/hermes-agent-self-evolution) ⭐ 5,647 | 🐛 135 | 🌐 Python | 📅 2026-06-17 - Evolutionary self-improvement framework for optimizing Hermes Agent prompts, skills, and code.
-* [Hermes Paperclip Adapter](https://github.com/NousResearch/hermes-paperclip-adapter) ⭐ 2,031 | 🐛 148 | 🌐 TypeScript | 📅 2026-04-04 - Adapter for running Hermes Agent as a managed employee inside Paperclip.
+* [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 260,878 | 🐛 53,073 | 🌐 Python | 📅 2026-11-06 - Open-source autonomous AI agent with CLI, gateway, memory, subagents, and broad tool integrations.
+* [Hermes Agent Self-Evolution](https://github.com/NousResearch/hermes-agent-self-evolution) ⭐ 5,653 | 🐛 135 | 🌐 Python | 📅 2026-06-17 - Evolutionary self-improvement framework for optimizing Hermes Agent prompts, skills, and code.
+* [Hermes Paperclip Adapter](https://github.com/NousResearch/hermes-paperclip-adapter) ⭐ 2,034 | 🐛 143 | 🌐 TypeScript | 📅 2026-04-04 - Adapter for running Hermes Agent as a managed employee inside Paperclip.
 * [hermes-fly](https://github.com/alexfazio/hermes-fly) ⭐ 49 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-22 - Fly.io deployment and operations CLI for Hermes Agent with deploy, logs, doctor, and teardown workflows.
 * [Hermes Agent + hermes-fly Best Practices (this repo)](guides/hermes-agent-hermes-fly-playbook.md) - Practical setup, operations, security, and optimization playbook.
 * [Hermes Agent Optimization Playbook (this repo)](guides/hermes-agent-optimization-playbook.md) - Deep operator guide for context, delegation, memory, and execution tuning.
@@ -157,15 +157,15 @@ Hermes Agent runtime, deployment rails, and operator resources.
 
 Terminal-based agent interfaces and developer tools.
 
-* [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 260,567 | 🐛 52,932 | 🌐 Python | 📅 2026-11-05 - CLI and gateway agent runtime with tools, memory, delegation, and automation support.
-* [Codex CLI](https://github.com/openai/codex) ⭐ 133,192 | 🐛 26,464 | 🌐 Rust | 📅 2026-11-05 - Open-source coding agent from OpenAI.
-* [Gemini CLI](https://github.com/google-gemini/gemini-cli) ⭐ 108,731 | 🐛 781 | 🌐 TypeScript | 📅 2026-11-04 - Google's command-line interface for Gemini models.
-* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 83,651 | 🐛 1,066 | 🌐 Go | 📅 2026-11-04 - Terminal UI for git commonly paired with coding agents.
-* [tmux](https://github.com/tmux/tmux) ⭐ 50,153 | 🐛 49 | 🌐 C | 📅 2026-11-03 - Terminal multiplexer for running agents in persistent sessions.
-* [Zellij](https://github.com/zellij-org/zellij) ⭐ 35,941 | 🐛 1,930 | 🌐 Rust | 📅 2026-11-04 - Terminal workspace with plugin system for agent integration.
-* [Glow](https://github.com/charmbracelet/glow) ⭐ 27,924 | 🐛 267 | 🌐 Go | 📅 2026-11-04 - Terminal Markdown renderer useful for agent output.
-* [llm](https://github.com/simonw/llm) ⭐ 12,705 | 🐛 779 | 🌐 Python | 📅 2026-11-03 - CLI tool for interacting with LLMs from the terminal.
-* [aichat](https://github.com/sigoden/aichat) ⭐ 10,544 | 🐛 108 | 🌐 Rust | 📅 2026-02-23 - All-in-one LLM CLI with chat, shell assistant, RAG, and agent features.
+* [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 260,878 | 🐛 53,073 | 🌐 Python | 📅 2026-11-06 - CLI and gateway agent runtime with tools, memory, delegation, and automation support.
+* [Codex CLI](https://github.com/openai/codex) ⭐ 133,355 | 🐛 26,620 | 🌐 Rust | 📅 2026-11-06 - Open-source coding agent from OpenAI.
+* [Gemini CLI](https://github.com/google-gemini/gemini-cli) ⭐ 108,743 | 🐛 783 | 🌐 TypeScript | 📅 2026-11-05 - Google's command-line interface for Gemini models.
+* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 83,673 | 🐛 1,067 | 🌐 Go | 📅 2026-11-04 - Terminal UI for git commonly paired with coding agents.
+* [tmux](https://github.com/tmux/tmux) ⭐ 50,164 | 🐛 60 | 🌐 C | 📅 2026-11-03 - Terminal multiplexer for running agents in persistent sessions.
+* [Zellij](https://github.com/zellij-org/zellij) ⭐ 35,952 | 🐛 1,930 | 🌐 Rust | 📅 2026-11-05 - Terminal workspace with plugin system for agent integration.
+* [Glow](https://github.com/charmbracelet/glow) ⭐ 27,934 | 🐛 267 | 🌐 Go | 📅 2026-11-04 - Terminal Markdown renderer useful for agent output.
+* [llm](https://github.com/simonw/llm) ⭐ 12,708 | 🐛 778 | 🌐 Python | 📅 2026-11-03 - CLI tool for interacting with LLMs from the terminal.
+* [aichat](https://github.com/sigoden/aichat) ⭐ 10,546 | 🐛 108 | 🌐 Rust | 📅 2026-02-23 - All-in-one LLM CLI with chat, shell assistant, RAG, and agent features.
 * [sgpt](https://github.com/tbckr/sgpt) ⭐ 461 | 🐛 3 | 🌐 Go | 📅 2026-11-03 - Command-line productivity tool powered by LLMs.
 * [hermes-fly](https://github.com/alexfazio/hermes-fly) ⭐ 49 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-22 - CLI wizard to deploy and operate Hermes Agent on Fly.io.
 * [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - Agentic CLI that operates directly in the terminal.
@@ -176,14 +176,14 @@ Terminal-based agent interfaces and developer tools.
 Execution sandboxes and runtime platforms for safely running agent actions and generated code.
 
 * [Daytona](https://github.com/daytonaio/daytona) ⚠️ Archived - Secure and elastic runtime infrastructure for AI-generated code execution.
-* [Firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 37,827 | 🐛 124 | 🌐 Rust | 📅 2026-11-04 - Secure and fast microVM technology for isolated agent execution.
-* [CUA](https://github.com/trycua/cua) ⭐ 31,739 | 🐛 1,406 | 🌐 Rust | 📅 2026-11-05 - Open-source infrastructure for computer-use agents with sandboxes, SDKs, and benchmarks.
-* [NemoClaw](https://github.com/NVIDIA/NemoClaw) ⭐ 22,943 | 🐛 841 | 🌐 TypeScript | 📅 2026-11-05 - NVIDIA tooling for running OpenClaw inside an OpenShell sandbox with managed inference.
-* [gVisor](https://github.com/google/gvisor) ⭐ 19,868 | 🐛 1,074 | 🌐 Go | 📅 2026-11-05 - Application kernel for containers that adds a strong isolation boundary.
-* [E2B](https://github.com/e2b-dev/E2B) ⭐ 14,712 | 🐛 111 | 🌐 Python | 📅 2026-11-04 - Open-source secure cloud sandbox environment for AI agents.
-* [Kata Containers](https://github.com/kata-containers/kata-containers) ⭐ 9,074 | 🐛 1,298 | 🌐 Rust | 📅 2026-11-04 - Lightweight VM-based container runtime for stronger workload isolation.
-* [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) ⭐ 642 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-04 - Self-hosted agent runtime and MCP bridge with persistent sessions, approvals, credentials, audit/replay, and selectable execution backends.
-* [RunPod Python SDK](https://github.com/runpod/runpod-python) ⭐ 317 | 🐛 98 | 🌐 Python | 📅 2026-11-04 - Python SDK for RunPod serverless and worker-based AI workloads.
+* [Firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 37,850 | 🐛 137 | 🌐 Rust | 📅 2026-11-05 - Secure and fast microVM technology for isolated agent execution.
+* [CUA](https://github.com/trycua/cua) ⭐ 31,821 | 🐛 1,425 | 🌐 Rust | 📅 2026-11-06 - Open-source infrastructure for computer-use agents with sandboxes, SDKs, and benchmarks.
+* [NemoClaw](https://github.com/NVIDIA/NemoClaw) ⭐ 22,959 | 🐛 840 | 🌐 TypeScript | 📅 2026-11-06 - NVIDIA tooling for running OpenClaw inside an OpenShell sandbox with managed inference.
+* [gVisor](https://github.com/google/gvisor) ⭐ 19,879 | 🐛 1,051 | 🌐 Go | 📅 2026-11-06 - Application kernel for containers that adds a strong isolation boundary.
+* [E2B](https://github.com/e2b-dev/E2B) ⭐ 14,730 | 🐛 114 | 🌐 Python | 📅 2026-11-05 - Open-source secure cloud sandbox environment for AI agents.
+* [Kata Containers](https://github.com/kata-containers/kata-containers) ⭐ 9,087 | 🐛 1,288 | 🌐 Rust | 📅 2026-11-06 - Lightweight VM-based container runtime for stronger workload isolation.
+* [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) ⭐ 640 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-04 - Self-hosted agent runtime and MCP bridge with persistent sessions, approvals, credentials, audit/replay, and selectable execution backends.
+* [RunPod Python SDK](https://github.com/runpod/runpod-python) ⭐ 317 | 🐛 100 | 🌐 Python | 📅 2026-11-05 - Python SDK for RunPod serverless and worker-based AI workloads.
 * [Modal](https://modal.com) - Serverless compute platform often used for running agent workloads and tools.
 
 <a id="mcp-ecosystem"></a>
@@ -192,27 +192,27 @@ Execution sandboxes and runtime platforms for safely running agent actions and g
 
 Open protocols, SDKs, servers, clients, and registries for connecting agents to tools, other agents, interfaces, and editors.
 
-* [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 97,311 | 🐛 4,275 | 📅 2026-11-02 - Curated list of MCP server implementations.
-* [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) ⭐ 91,798 | 🐛 34 | 🌐 TypeScript | 📅 2026-11-04 - Official reference implementations for Model Context Protocol servers.
-* [Context7 MCP](https://github.com/upstash/context7) ⭐ 64,202 | 🐛 72 | 🌐 TypeScript | 📅 2026-11-04 - MCP server that retrieves current, version-specific library documentation.
-* [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) ⭐ 54,802 | 🐛 133 | 🌐 TypeScript | 📅 2026-11-04 - Official Chrome DevTools MCP server for coding and browser automation agents.
-* [Playwright MCP](https://github.com/microsoft/playwright-mcp) ⭐ 39,186 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-04 - MCP server for browser automation via Playwright.
-* [GitHub MCP Server](https://github.com/github/github-mcp-server) ⭐ 34,233 | 🐛 396 | 🌐 Go | 📅 2026-11-04 - Official MCP server for GitHub workflows and repository actions.
-* [FastMCP](https://github.com/PrefectHQ/fastmcp) ⭐ 28,310 | 🐛 448 | 🌐 Python | 📅 2026-11-05 - Pythonic framework for building MCP servers and clients quickly.
-* [Agent2Agent (A2A)](https://github.com/a2aproject/A2A) ⭐ 26,416 | 🐛 300 | 🌐 Shell | 📅 2026-11-04 - Linux Foundation protocol for communication between independent agent applications.
-* [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) ⭐ 24,762 | 🐛 394 | 🌐 Python | 📅 2026-11-03 - Official Python SDK for building MCP servers.
-* [MCP for Beginners](https://github.com/microsoft/mcp-for-beginners) ⭐ 17,603 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2026-11-02 - Cross-language curriculum and practical examples for learning MCP.
-* [AG-UI](https://github.com/ag-ui-protocol/ag-ui) ⭐ 17,018 | 🐛 552 | 🌐 TypeScript | 📅 2026-11-05 - Event-based protocol for connecting agent backends to interactive user interfaces.
-* [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) ⭐ 13,708 | 🐛 643 | 🌐 TypeScript | 📅 2026-10-31 - Official TypeScript SDK for building MCP servers.
-* [MCP Inspector](https://github.com/modelcontextprotocol/inspector) ⭐ 11,231 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-04 - Official inspector and debugging tool for MCP servers.
-* [MCP Specification Repo](https://github.com/modelcontextprotocol/modelcontextprotocol) ⭐ 9,616 | 🐛 125 | 🌐 TypeScript | 📅 2026-11-05 - Canonical specification and documentation repository.
-* [MCP Go SDK](https://github.com/mark3labs/mcp-go) ⭐ 9,222 | 🐛 21 | 🌐 Go | 📅 2026-11-03 - Go implementation of the Model Context Protocol.
-* [MCP Agent](https://github.com/lastmile-ai/mcp-agent) ⭐ 8,575 | 🐛 155 | 🌐 Python | 📅 2026-01-25 - Framework patterns for building agents on top of MCP.
-* [MCP Registry](https://github.com/modelcontextprotocol/registry) ⭐ 7,436 | 🐛 116 | 🌐 Go | 📅 2026-11-05 - Community registry service for discovering MCP servers.
-* [Agent Client Protocol](https://github.com/zed-industries/agent-client-protocol) ⭐ 4,577 | 🐛 33 | 🌐 Rust | 📅 2026-11-04 - Open protocol between coding agents and editors or IDEs.
-* [MCP Rust SDK](https://github.com/modelcontextprotocol/rust-sdk) ⭐ 4,089 | 🐛 66 | 🌐 Rust | 📅 2026-11-04 - Official Rust SDK for building MCP servers.
+* [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 97,340 | 🐛 4,345 | 📅 2026-11-02 - Curated list of MCP server implementations.
+* [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) ⭐ 91,815 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-05 - Official reference implementations for Model Context Protocol servers.
+* [Context7 MCP](https://github.com/upstash/context7) ⭐ 64,251 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-05 - MCP server that retrieves current, version-specific library documentation.
+* [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) ⭐ 54,853 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-05 - Official Chrome DevTools MCP server for coding and browser automation agents.
+* [Playwright MCP](https://github.com/microsoft/playwright-mcp) ⭐ 39,234 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-05 - MCP server for browser automation via Playwright.
+* [GitHub MCP Server](https://github.com/github/github-mcp-server) ⭐ 34,264 | 🐛 399 | 🌐 Go | 📅 2026-11-05 - Official MCP server for GitHub workflows and repository actions.
+* [FastMCP](https://github.com/PrefectHQ/fastmcp) ⭐ 28,322 | 🐛 451 | 🌐 Python | 📅 2026-11-06 - Pythonic framework for building MCP servers and clients quickly.
+* [Agent2Agent (A2A)](https://github.com/a2aproject/A2A) ⭐ 26,430 | 🐛 300 | 🌐 Shell | 📅 2026-11-05 - Linux Foundation protocol for communication between independent agent applications.
+* [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) ⭐ 24,773 | 🐛 395 | 🌐 Python | 📅 2026-11-05 - Official Python SDK for building MCP servers.
+* [MCP for Beginners](https://github.com/microsoft/mcp-for-beginners) ⭐ 17,609 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2026-11-02 - Cross-language curriculum and practical examples for learning MCP.
+* [AG-UI](https://github.com/ag-ui-protocol/ag-ui) ⭐ 17,038 | 🐛 554 | 🌐 TypeScript | 📅 2026-11-06 - Event-based protocol for connecting agent backends to interactive user interfaces.
+* [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) ⭐ 13,715 | 🐛 646 | 🌐 TypeScript | 📅 2026-11-05 - Official TypeScript SDK for building MCP servers.
+* [MCP Inspector](https://github.com/modelcontextprotocol/inspector) ⭐ 11,242 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-05 - Official inspector and debugging tool for MCP servers.
+* [MCP Specification Repo](https://github.com/modelcontextprotocol/modelcontextprotocol) ⭐ 9,623 | 🐛 129 | 🌐 TypeScript | 📅 2026-11-05 - Canonical specification and documentation repository.
+* [MCP Go SDK](https://github.com/mark3labs/mcp-go) ⭐ 9,225 | 🐛 27 | 🌐 Go | 📅 2026-11-03 - Go implementation of the Model Context Protocol.
+* [MCP Agent](https://github.com/lastmile-ai/mcp-agent) ⭐ 8,577 | 🐛 155 | 🌐 Python | 📅 2026-01-25 - Framework patterns for building agents on top of MCP.
+* [MCP Registry](https://github.com/modelcontextprotocol/registry) ⭐ 7,445 | 🐛 117 | 🌐 Go | 📅 2026-11-05 - Community registry service for discovering MCP servers.
+* [Agent Client Protocol](https://github.com/zed-industries/agent-client-protocol) ⭐ 4,584 | 🐛 35 | 🌐 Rust | 📅 2026-11-04 - Open protocol between coding agents and editors or IDEs.
+* [MCP Rust SDK](https://github.com/modelcontextprotocol/rust-sdk) ⭐ 4,093 | 🐛 65 | 🌐 Rust | 📅 2026-11-05 - Official Rust SDK for building MCP servers.
 * [SandBase CLI](https://github.com/sandbaseai/cli) ⭐ 185 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-24 - Open-source CLI and local MCP server that configures 25 AI clients for access to 2,000+ models and APIs, with six tools for discovery, execution, run history, and account status.
-* [Hexis](https://github.com/Bevel-Software/Hexis) ⭐ 122 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-04 - Git-backed platform for managing skills, tools, and context for AI agents, with review workflows, role-based access, and a remote MCP server.
+* [Hexis](https://github.com/Bevel-Software/Hexis) ⭐ 123 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-05 - Git-backed platform for managing skills, tools, and context for AI agents, with review workflows, role-based access, and a remote MCP server.
 * [MCP Spec](https://modelcontextprotocol.io/specification) - Official Model Context Protocol specification.
 * [Smithery](https://smithery.ai) - Registry and hosting platform for MCP servers.
 
@@ -221,10 +221,10 @@ Open protocols, SDKs, servers, clients, and registries for connecting agents to 
 Instruction-writing craft: system prompts, response framing, and reusable prompt templates.
 Focus here on *what to ask and how to phrase it* at the prompt layer.
 
-* [awesome-chatgpt-prompts](https://github.com/f/prompts.chat) ⭐ 175,814 | 🐛 78 | 🌐 MDX | 📅 2026-11-04 - Collection of prompt examples for ChatGPT.
-* [fabric](https://github.com/danielmiessler/fabric) ⭐ 44,553 | 🐛 26 | 🌐 Go | 📅 2026-11-03 - Framework for augmenting humans using AI with curated prompts.
-* [DSPy](https://github.com/stanfordnlp/dspy) ⭐ 38,924 | 🐛 763 | 🌐 Python | 📅 2026-11-05 - Framework for programming with foundation models instead of prompting.
-* [Promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 26,844 | 🐛 916 | 🌐 TypeScript | 📅 2026-11-05 - Testing and evaluation framework for LLM prompts.
+* [awesome-chatgpt-prompts](https://github.com/f/prompts.chat) ⭐ 175,904 | 🐛 79 | 🌐 MDX | 📅 2026-11-05 - Collection of prompt examples for ChatGPT.
+* [fabric](https://github.com/danielmiessler/fabric) ⭐ 44,558 | 🐛 27 | 🌐 Go | 📅 2026-11-03 - Framework for augmenting humans using AI with curated prompts.
+* [DSPy](https://github.com/stanfordnlp/dspy) ⭐ 38,946 | 🐛 765 | 🌐 Python | 📅 2026-11-05 - Framework for programming with foundation models instead of prompting.
+* [Promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 26,885 | 🐛 928 | 🌐 TypeScript | 📅 2026-11-06 - Testing and evaluation framework for LLM prompts.
 * [System Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) ⭐ 1,230 | 🐛 1 | 📅 2024-12-11 - Collection of system prompts for various AI models.
 * [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library) - Official prompt examples from Anthropic.
 * [Claude System Prompts](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering) - Guide to writing effective system prompts.
@@ -237,31 +237,31 @@ Harnesses, benchmarks, and evaluation frameworks for measuring agent quality and
 
 ### Benchmark Reality Check (real-world tool use)
 
-* [browser-use](https://github.com/browser-use/browser-use) ⭐ 120,042 | 🐛 634 | 🌐 Python | 📅 2026-11-02 - Framework for browser task automation and agent web interaction loops.
+* [browser-use](https://github.com/browser-use/browser-use) ⭐ 120,141 | 🐛 637 | 🌐 Python | 📅 2026-11-05 - Framework for browser task automation and agent web interaction loops.
 
-* [AutoGen agbench](https://github.com/microsoft/autogen/blob/main/python/packages/agbench/README.md) ⭐ 61,705 | 🐛 1,143 | 🌐 Python | 📅 2026-10-28 - Benchmark runner for AutoGen agent workflows.
+* [AutoGen agbench](https://github.com/microsoft/autogen/blob/main/python/packages/agbench/README.md) ⭐ 61,718 | 🐛 1,147 | 🌐 Python | 📅 2026-10-28 - Benchmark runner for AutoGen agent workflows.
 
-* [Stagehand](https://github.com/browserbase/stagehand) ⭐ 25,950 | 🐛 414 | 🌐 TypeScript | 📅 2026-11-05 - Browser automation framework for agentic web workflows and reproducible runs.
+* [Stagehand](https://github.com/browserbase/stagehand) ⭐ 25,960 | 🐛 417 | 🌐 TypeScript | 📅 2026-11-06 - Browser automation framework for agentic web workflows and reproducible runs.
 
-* [SWE-bench](https://github.com/SWE-bench/SWE-bench) ⭐ 6,146 | 🐛 60 | 🌐 Python | 📅 2026-09-18 - Canonical benchmark for coding agents on real GitHub issue tasks.
+* [SWE-bench](https://github.com/SWE-bench/SWE-bench) ⭐ 6,150 | 🐛 62 | 🌐 Python | 📅 2026-09-18 - Canonical benchmark for coding agents on real GitHub issue tasks.
 
-* [AgentBench](https://github.com/THUDM/AgentBench) ⭐ 3,814 | 🐛 80 | 🌐 Python | 📅 2026-02-08 - Multi-domain benchmark suite for evaluating LLMs as agents.
+* [AgentBench](https://github.com/THUDM/AgentBench) ⭐ 3,816 | 🐛 80 | 🌐 Python | 📅 2026-02-08 - Multi-domain benchmark suite for evaluating LLMs as agents.
 
-* [OSWorld](https://github.com/xlang-ai/OSWorld) ⭐ 3,252 | 🐛 170 | 🌐 Python | 📅 2026-11-02 - Open-ended benchmark environment for desktop computer-use agents.
+* [OSWorld](https://github.com/xlang-ai/OSWorld) ⭐ 3,251 | 🐛 171 | 🌐 Python | 📅 2026-11-02 - Open-ended benchmark environment for desktop computer-use agents.
 
-* [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) ⭐ 3,176 | 🐛 487 | 🌐 Python | 📅 2026-11-05 - Open-source framework for reproducible LLM and agent evaluations.
+* [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) ⭐ 3,187 | 🐛 494 | 🌐 Python | 📅 2026-11-05 - Open-source framework for reproducible LLM and agent evaluations.
 
-* [MLE-bench](https://github.com/openai/mle-bench) ⭐ 1,790 | 🐛 16 | 🌐 Python | 📅 2026-04-24 - Benchmark harness for autonomous ML engineering tasks.
+* [MLE-bench](https://github.com/openai/mle-bench) ⭐ 1,789 | 🐛 16 | 🌐 Python | 📅 2026-04-24 - Benchmark harness for autonomous ML engineering tasks.
 
 * [WebArena](https://github.com/web-arena-x/webarena) ⭐ 1,641 | 🐛 106 | 🌐 Python | 📅 2025-11-26 - Real-world web task benchmark environment for browser agents.
 
-* [Tau-Bench](https://github.com/sierra-research/tau-bench) ⭐ 1,489 | 🐛 57 | 🌐 Python | 📅 2026-03-18 - Realistic interactive benchmark for measuring agent reliability.
+* [Tau-Bench](https://github.com/sierra-research/tau-bench) ⭐ 1,491 | 🐛 57 | 🌐 Python | 📅 2026-03-18 - Realistic interactive benchmark for measuring agent reliability.
 
-* [BrowserGym](https://github.com/ServiceNow/BrowserGym) ⭐ 1,427 | 🐛 48 | 🌐 Python | 📅 2026-10-28 - Gym-style environment for training and evaluating browser agents.
+* [BrowserGym](https://github.com/ServiceNow/BrowserGym) ⭐ 1,428 | 🐛 50 | 🌐 Python | 📅 2026-10-28 - Gym-style environment for training and evaluating browser agents.
 
-* [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) ⭐ 1,201 | 🐛 137 | 🌐 Python | 📅 2026-11-04 - Browser-agent benchmark with 283 tasks (V1 153 + V2 130) across 163 live websites, safe final-action interception, and replay, action, network, and message traces.
+* [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) ⭐ 1,210 | 🐛 136 | 🌐 Python | 📅 2026-11-05 - Browser-agent benchmark with 283 tasks (V1 153 + V2 130) across 163 live websites, safe final-action interception, and replay, action, network, and message traces.
 
-* [AgentDojo](https://github.com/ethz-spylab/agentdojo) ⭐ 990 | 🐛 99 | 🌐 Python | 📅 2026-06-02 - Security and robustness benchmark suite for tool-using agents.
+* [AgentDojo](https://github.com/ethz-spylab/agentdojo) ⭐ 993 | 🐛 99 | 🌐 Python | 📅 2026-06-02 - Security and robustness benchmark suite for tool-using agents.
 
 * [OpenCUA](https://github.com/xlang-ai/OpenCUA) ⭐ 873 | 🐛 16 | 🌐 Python | 📅 2026-05-25 - Open foundation stack for building and evaluating computer-use agents.
 
@@ -269,11 +269,11 @@ Harnesses, benchmarks, and evaluation frameworks for measuring agent quality and
 
 * [JailbreakBench](https://github.com/JailbreakBench/jailbreakbench) ⭐ 693 | 🐛 12 | 🌐 Python | 📅 2025-04-04 - Open robustness benchmark for measuring jailbreak resistance in language models and agents.
 
-* [AgentLab](https://github.com/ServiceNow/AgentLab) ⭐ 661 | 🐛 37 | 🌐 Python | 📅 2026-10-06 - Research platform for developing and evaluating web agents.
+* [AgentLab](https://github.com/ServiceNow/AgentLab) ⭐ 661 | 🐛 38 | 🌐 Python | 📅 2026-10-06 - Research platform for developing and evaluating web agents.
 
-* [AppWorld](https://github.com/StonyBrookNLP/appworld) ⭐ 547 | 🐛 16 | 🌐 Python | 📅 2026-09-04 - Multi-application environment for benchmarking autonomous task completion.
+* [AppWorld](https://github.com/StonyBrookNLP/appworld) ⭐ 548 | 🐛 16 | 🌐 Python | 📅 2026-09-04 - Multi-application environment for benchmarking autonomous task completion.
 
-* [MCPMark](https://github.com/eval-sys/mcpmark) ⭐ 470 | 🐛 27 | 🌐 Python | 📅 2026-06-12 - Stress-testing benchmark for evaluating model and agent capability on MCP tasks.
+* [MCPMark](https://github.com/eval-sys/mcpmark) ⭐ 472 | 🐛 27 | 🌐 Python | 📅 2026-06-12 - Stress-testing benchmark for evaluating model and agent capability on MCP tasks.
 
 * [WorkArena](https://github.com/ServiceNow/WorkArena) ⭐ 279 | 🐛 27 | 🌐 Python | 📅 2026-09-28 - Enterprise task benchmark for browser-based agent workflows.
 
@@ -308,7 +308,7 @@ Deep-dive reading map organized by the major categories in this repository.
 Systems-level context design: memory, retrieval, compression, routing, and long-horizon state management.
 Focus here on *what information the model gets, when, and in what form*.
 
-* [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) ⭐ 26,977 | 🐛 28 | 🌐 TypeScript | 📅 2025-09-21 - Engineering principles for building reliable, production-grade LLM agents.
+* [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) ⭐ 26,994 | 🐛 28 | 🌐 TypeScript | 📅 2025-09-21 - Engineering principles for building reliable, production-grade LLM agents.
 * [Anthropic: Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) - Practical engineering patterns for agent design and execution loops.
 * [Anthropic: Contextual Retrieval](https://www.anthropic.com/engineering/contextual-retrieval) - Retrieval architecture guidance for improving grounding and precision.
 * [Anthropic: Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) - Production guidance for context composition and lifecycle management.
@@ -343,10 +343,10 @@ Neural memory, retrieval, and graph-linking foundations relevant to advanced age
 
 Obsidian-specific architecture patterns and APIs for using vaults as agent memory backends.
 
-* [Obsidian Git](https://github.com/Vinzent03/obsidian-git) ⭐ 12,227 | 🐛 91 | 🌐 TypeScript | 📅 2026-11-03 - Versioned vault operations for auditable agent writes.
-* [Dataview](https://github.com/blacksmithgu/obsidian-dataview) ⭐ 9,416 | 🐛 668 | 🌐 TypeScript | 📅 2025-11-17 - Query engine for structured note metadata and graph-aware retrieval.
-* [Local REST API Plugin](https://github.com/coddingtonbear/obsidian-local-rest-api) ⭐ 3,111 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-17 - Local HTTP interface for external agent integrations.
-* [obsidian-api](https://github.com/obsidianmd/obsidian-api) ⭐ 2,349 | 🐛 22 | 📅 2026-10-05 - Official API type definitions for plugin development.
+* [Obsidian Git](https://github.com/Vinzent03/obsidian-git) ⭐ 12,231 | 🐛 90 | 🌐 TypeScript | 📅 2026-11-05 - Versioned vault operations for auditable agent writes.
+* [Dataview](https://github.com/blacksmithgu/obsidian-dataview) ⭐ 9,418 | 🐛 668 | 🌐 TypeScript | 📅 2025-11-17 - Query engine for structured note metadata and graph-aware retrieval.
+* [Local REST API Plugin](https://github.com/coddingtonbear/obsidian-local-rest-api) ⭐ 3,116 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-17 - Local HTTP interface for external agent integrations.
+* [obsidian-api](https://github.com/obsidianmd/obsidian-api) ⭐ 2,350 | 🐛 22 | 📅 2026-10-05 - Official API type definitions for plugin development.
 * [Advanced URI](https://github.com/Vinzent03/obsidian-advanced-uri) ⭐ 1,228 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-18 - URI-based automation hooks for cross-tool workflows.
 * [Juggl](https://github.com/HEmile/juggl) ⭐ 822 | 🐛 64 | 🌐 TypeScript | 📅 2025-02-27 - Advanced graph exploration plugin for complex link topology workflows.
 * [How Obsidian Stores Data](https://help.obsidian.md/Files+and+folders/How+Obsidian+stores+data) - Canonical vault-on-disk model and config layout.
@@ -359,13 +359,13 @@ Obsidian-specific architecture patterns and APIs for using vaults as agent memor
 
 Safety, red-teaming, and robustness tools for hardening agent behavior.
 
-* [Promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 26,844 | 🐛 916 | 🌐 TypeScript | 📅 2026-11-05 - Red-teaming and robustness testing toolkit for LLM systems.
-* [garak](https://github.com/NVIDIA/garak) ⭐ 9,861 | 🐛 547 | 🌐 Python | 📅 2026-11-04 - LLM vulnerability scanning and red-teaming toolkit for security testing.
-* [Guardrails AI](https://github.com/guardrails-ai/guardrails) ⭐ 7,585 | 🐛 63 | 🌐 Python | 📅 2026-11-03 - Validation and safety guardrails framework for LLM outputs.
-* [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) ⭐ 7,434 | 🐛 285 | 🌐 Python | 📅 2026-11-04 - Toolkit for adding programmable safety and policy guardrails to LLM systems.
-* [llm-attacks](https://github.com/llm-attacks/llm-attacks) ⭐ 4,850 | 🐛 69 | 🌐 Python | 📅 2024-08-02 - Reference implementation and resources for adversarial jailbreak attack evaluation.
-* [PyRIT](https://github.com/microsoft/PyRIT) ⭐ 4,748 | 🐛 310 | 🌐 Python | 📅 2026-11-05 - Python Risk Identification Tool for testing generative AI systems.
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,203 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
+* [Promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 26,885 | 🐛 928 | 🌐 TypeScript | 📅 2026-11-06 - Red-teaming and robustness testing toolkit for LLM systems.
+* [garak](https://github.com/NVIDIA/garak) ⭐ 9,886 | 🐛 550 | 🌐 Python | 📅 2026-11-04 - LLM vulnerability scanning and red-teaming toolkit for security testing.
+* [Guardrails AI](https://github.com/guardrails-ai/guardrails) ⭐ 7,585 | 🐛 63 | 🌐 Python | 📅 2026-11-05 - Validation and safety guardrails framework for LLM outputs.
+* [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) ⭐ 7,438 | 🐛 285 | 🌐 Python | 📅 2026-11-06 - Toolkit for adding programmable safety and policy guardrails to LLM systems.
+* [llm-attacks](https://github.com/llm-attacks/llm-attacks) ⭐ 4,852 | 🐛 69 | 🌐 Python | 📅 2024-08-02 - Reference implementation and resources for adversarial jailbreak attack evaluation.
+* [PyRIT](https://github.com/microsoft/PyRIT) ⭐ 4,759 | 🐛 306 | 🌐 Python | 📅 2026-11-06 - Python Risk Identification Tool for testing generative AI systems.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,205 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 * [JailbreakBench](https://github.com/JailbreakBench/jailbreakbench) ⭐ 693 | 🐛 12 | 🌐 Python | 📅 2025-04-04 - Open robustness benchmark for measuring jailbreak resistance in language models and agents.
 * [Invariant](https://github.com/invariantlabs-ai/invariant) ⭐ 475 | 🐛 16 | 🌐 Python | 📅 2026-01-12 - Guardrails framework for secure and robust agent development.
 * [MCP Security Best Practices](https://modelcontextprotocol.io/docs/tutorials/security/security_best_practices) - Official security guidance for MCP authorization flows, threats, and mitigations.
@@ -374,7 +374,7 @@ Safety, red-teaming, and robustness tools for hardening agent behavior.
 
 Configuration files and workflow examples for AI coding tools.
 
-* [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐ 41,099 | 🐛 113 | 🌐 JavaScript | 📅 2026-05-30 - Curated list of Cursor rule files.
+* [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐ 41,112 | 🐛 113 | 🌐 JavaScript | 📅 2026-05-30 - Curated list of Cursor rule files.
 * [Trail of Bits Claude Code Config](https://github.com/trailofbits/claude-code-config) ⭐ 2,146 | 🐛 19 | 🌐 Shell | 📅 2026-08-24 - Opinionated Claude Code defaults and workflows from a security-focused engineering team.
 * [Herbert](https://github.com/robertaustinbell/herbert) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-17 - Runtime-neutral template for building a personal AI agent with explicit identity, judgment, memory, authority boundaries, and verified-action requirements.
 * [Claude Code Memory Files](https://docs.anthropic.com/en/docs/claude-code/memory) - Guide to CLAUDE.md and project memory.
@@ -388,11 +388,11 @@ Configuration files and workflow examples for AI coding tools.
 
 Hands-on resources for designing, testing, and shipping high-quality agent skills.
 
-* [anthropics/skills](https://github.com/anthropics/skills) ⭐ 187,423 | 🐛 1,482 | 🌐 Python | 📅 2026-10-28 - Official production-ready skill examples and reference implementations.
-* [Agent Skills Specification](https://github.com/agentskills/agentskills) ⭐ 26,943 | 🐛 115 | 🌐 Python | 📅 2026-11-04 - Open format and reference documentation for portable agent skill packages.
-* [NVIDIA Agent Skills](https://github.com/NVIDIA/skills) ⭐ 3,862 | 🐛 15 | 🌐 Python | 📅 2026-11-05 - NVIDIA-maintained catalog of skills for CUDA-X libraries, blueprints, and platform tools.
-* [SkillsBench](https://github.com/benchflow-ai/skillsbench) ⭐ 1,897 | 🐛 140 | 🌐 PDDL | 📅 2026-11-04 - Benchmark for measuring how agents use skill packages across verifiable tasks.
-* [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) ⭐ 125 | 🐛 20 | 🌐 JavaScript | 📅 2026-11-05 - MIT-licensed collection of 71 Claude Code and Codex skills for orchestration, worker fleets, code review, AI evaluation, product, design, and growth workflows.
+* [anthropics/skills](https://github.com/anthropics/skills) ⭐ 187,764 | 🐛 1,485 | 🌐 Python | 📅 2026-10-28 - Official production-ready skill examples and reference implementations.
+* [Agent Skills Specification](https://github.com/agentskills/agentskills) ⭐ 26,984 | 🐛 116 | 🌐 Python | 📅 2026-11-04 - Open format and reference documentation for portable agent skill packages.
+* [NVIDIA Agent Skills](https://github.com/NVIDIA/skills) ⭐ 3,872 | 🐛 18 | 🌐 Python | 📅 2026-11-05 - NVIDIA-maintained catalog of skills for CUDA-X libraries, blueprints, and platform tools.
+* [SkillsBench](https://github.com/benchflow-ai/skillsbench) ⭐ 1,900 | 🐛 141 | 🌐 PDDL | 📅 2026-11-04 - Benchmark for measuring how agents use skill packages across verifiable tasks.
+* [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) ⭐ 121 | 🐛 21 | 🌐 JavaScript | 📅 2026-11-05 - MIT-licensed collection of 71 Claude Code and Codex skills for orchestration, worker fleets, code review, AI evaluation, product, design, and growth workflows.
 * [Anthropic: The Complete Guide to Building Skills for Claude (PDF)](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf) - Canonical end-to-end guide covering structure, triggering, testing, and distribution.
 * [Claude Skill Engineering Playbook (this repo)](guides/claude-skill-engineering-playbook.md) - Distilled patterns, anti-patterns, templates, and troubleshooting from the Anthropic guide.
 * [Claude Skills Quickstart Checklist (this repo)](guides/claude-skills-quickstart-checklist.md) - Build-test-ship checklist for repeatable skill quality.
@@ -401,21 +401,21 @@ Hands-on resources for designing, testing, and shipping high-quality agent skill
 
 Agent memory architectures, knowledge graphs, and second-brain integrations.
 
-* [Mem0](https://github.com/mem0ai/mem0) ⭐ 68,413 | 🐛 906 | 🌐 Python | 📅 2026-11-04 - Memory layer for AI assistants and agents.
-* [LightRAG](https://github.com/HKUDS/LightRAG) ⭐ 40,530 | 🐛 437 | 🌐 Python | 📅 2026-11-03 - Simple and fast RAG framework using graph structures.
-* [Khoj](https://github.com/khoj-ai/khoj) ⭐ 37,990 | 🐛 170 | 🌐 Python | 📅 2026-08-02 - Personal AI assistant with long-term memory and knowledge search.
-* [GraphRAG](https://github.com/microsoft/graphrag) ⭐ 36,559 | 🐛 61 | 🌐 Python | 📅 2026-11-02 - Graph-based retrieval augmented generation from Microsoft.
-* [Qdrant](https://github.com/qdrant/qdrant) ⭐ 35,428 | 🐛 766 | 🌐 Rust | 📅 2026-11-04 - High-performance vector search engine for agent memory.
-* [Cognee](https://github.com/topoteretes/cognee) ⭐ 33,072 | 🐛 1,105 | 🌐 Python | 📅 2026-11-04 - Memory management layer for LLM apps using knowledge graphs.
-* [Graphiti](https://github.com/getzep/graphiti) ⭐ 32,527 | 🐛 544 | 🌐 Python | 📅 2026-11-03 - Real-time knowledge graph framework for AI agents.
-* [Neo4j](https://github.com/neo4j/neo4j) ⭐ 17,393 | 🐛 242 | 🌐 Java | 📅 2026-10-23 - Graph database platform widely used for agent knowledge stores.
-* [Weaviate](https://github.com/weaviate/weaviate) ⭐ 16,937 | 🐛 834 | 🌐 Go | 📅 2026-11-04 - Vector database with built-in modules for AI workloads.
-* [txtai](https://github.com/neuml/txtai) ⭐ 13,064 | 🐛 17 | 🌐 Python | 📅 2026-11-04 - All-in-one embeddings database for semantic search and workflows.
-* [FalkorDB](https://github.com/FalkorDB/FalkorDB) ⭐ 10,504 | 🐛 832 | 🌐 Rust | 📅 2026-11-04 - Ultra-fast graph database for AI agent knowledge.
-* [Zep](https://github.com/getzep/zep) ⭐ 4,989 | 🐛 10 | 🌐 Python | 📅 2026-11-04 - Memory infrastructure and retrieval stack for AI assistants and agents.
-* [Memgraph](https://github.com/memgraph/memgraph) ⭐ 4,647 | 🐛 952 | 🌐 C++ | 📅 2026-11-05 - In-memory graph database for real-time agent queries.
-* [ReMe](https://github.com/agentscope-ai/ReMe) ⭐ 3,750 | 🐛 53 | 🌐 Python | 📅 2026-11-04 - Local-first agent memory layer with editable Markdown storage and hybrid retrieval.
-* [LangMem](https://github.com/langchain-ai/langmem) ⭐ 1,745 | 🐛 80 | 🌐 Python | 📅 2026-11-03 - Memory management toolkit for building long-horizon agent systems.
+* [Mem0](https://github.com/mem0ai/mem0) ⭐ 68,477 | 🐛 909 | 🌐 Python | 📅 2026-11-04 - Memory layer for AI assistants and agents.
+* [LightRAG](https://github.com/HKUDS/LightRAG) ⭐ 40,557 | 🐛 439 | 🌐 Python | 📅 2026-11-05 - Simple and fast RAG framework using graph structures.
+* [Khoj](https://github.com/khoj-ai/khoj) ⭐ 38,010 | 🐛 170 | 🌐 Python | 📅 2026-08-02 - Personal AI assistant with long-term memory and knowledge search.
+* [GraphRAG](https://github.com/microsoft/graphrag) ⭐ 36,572 | 🐛 61 | 🌐 Python | 📅 2026-11-02 - Graph-based retrieval augmented generation from Microsoft.
+* [Qdrant](https://github.com/qdrant/qdrant) ⭐ 35,440 | 🐛 782 | 🌐 Rust | 📅 2026-11-05 - High-performance vector search engine for agent memory.
+* [Cognee](https://github.com/topoteretes/cognee) ⭐ 33,093 | 🐛 1,107 | 🌐 Python | 📅 2026-11-06 - Memory management layer for LLM apps using knowledge graphs.
+* [Graphiti](https://github.com/getzep/graphiti) ⭐ 32,572 | 🐛 547 | 🌐 Python | 📅 2026-11-03 - Real-time knowledge graph framework for AI agents.
+* [Neo4j](https://github.com/neo4j/neo4j) ⭐ 17,398 | 🐛 245 | 🌐 Java | 📅 2026-10-23 - Graph database platform widely used for agent knowledge stores.
+* [Weaviate](https://github.com/weaviate/weaviate) ⭐ 16,940 | 🐛 843 | 🌐 Go | 📅 2026-11-06 - Vector database with built-in modules for AI workloads.
+* [txtai](https://github.com/neuml/txtai) ⭐ 13,065 | 🐛 13 | 🌐 Python | 📅 2026-11-05 - All-in-one embeddings database for semantic search and workflows.
+* [FalkorDB](https://github.com/FalkorDB/FalkorDB) ⭐ 10,503 | 🐛 833 | 🌐 Rust | 📅 2026-11-05 - Ultra-fast graph database for AI agent knowledge.
+* [Zep](https://github.com/getzep/zep) ⭐ 4,992 | 🐛 10 | 🌐 Python | 📅 2026-11-04 - Memory infrastructure and retrieval stack for AI assistants and agents.
+* [Memgraph](https://github.com/memgraph/memgraph) ⭐ 4,648 | 🐛 947 | 🌐 C++ | 📅 2026-11-05 - In-memory graph database for real-time agent queries.
+* [ReMe](https://github.com/agentscope-ai/ReMe) ⭐ 3,754 | 🐛 49 | 🌐 Python | 📅 2026-11-05 - Local-first agent memory layer with editable Markdown storage and hybrid retrieval.
+* [LangMem](https://github.com/langchain-ai/langmem) ⭐ 1,748 | 🐛 81 | 🌐 Python | 📅 2026-11-03 - Memory management toolkit for building long-horizon agent systems.
 * [ODIN](https://github.com/memgraph/odin) ⭐ 614 | 🐛 4 | 🌐 TypeScript | 📅 2024-03-04 - Knowledge graph construction tool built on Memgraph.
 * [LWC](https://github.com/JanYork/llm-wiki-cli) ⭐ 72 | 🐛 0 | 🌐 Rust | 📅 2026-10-07 - Source-grounded project memory for coding agents with SQLite full-text retrieval, optional document and code graphs, lifecycle hooks, and a bounded read-only MCP interface.
 * [obsidian-graph-query](https://github.com/azuma520/obsidian-graph-query) ⭐ 37 | 🐛 0 | 🌐 Shell | 📅 2026-03-21 - Query and traverse Obsidian vault graphs programmatically.
@@ -426,19 +426,19 @@ Agent memory architectures, knowledge graphs, and second-brain integrations.
 
 Tools and SDKs for building AI agents on Solana.
 
-* [Anchor](https://github.com/solana-foundation/anchor) ⭐ 5,164 | 🐛 76 | 🌐 Rust | 📅 2026-11-03 - Core Solana framework for building and integrating smart contracts and clients.
-* [Solana Web3.js](https://github.com/solana-foundation/solana-web3.js) ⭐ 2,782 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-04 - JavaScript SDK for interacting with the Solana blockchain.
+* [Anchor](https://github.com/solana-foundation/anchor) ⭐ 5,165 | 🐛 72 | 🌐 Rust | 📅 2026-11-05 - Core Solana framework for building and integrating smart contracts and clients.
+* [Solana Web3.js](https://github.com/solana-foundation/solana-web3.js) ⭐ 2,782 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-05 - JavaScript SDK for interacting with the Solana blockchain.
 * [LangChain Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) ⭐ 1,732 | 🐛 84 | 🌐 TypeScript | 📅 2026-05-14 - LangChain tools for Solana agent operations.
 * [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) ⭐ 1,732 | 🐛 84 | 🌐 TypeScript | 📅 2026-05-14 - Toolkit for connecting AI agents to Solana protocols.
-* [Yellowstone gRPC](https://github.com/rpcpool/yellowstone-grpc) ⭐ 1,019 | 🐛 30 | 🌐 Rust | 📅 2026-11-04 - High-throughput real-time Solana data streams for low-latency agents and indexers.
-* [GOAT SDK](https://github.com/goat-sdk/goat) ⭐ 1,016 | 🐛 81 | 🌐 TypeScript | 📅 2026-07-02 - Open-source toolkit connecting AI agents to 200+ on-chain tools across Solana and EVM chains.
-* [Jito-Solana](https://github.com/jito-foundation/jito-solana) ⭐ 765 | 🐛 31 | 🌐 Rust | 📅 2026-11-03 - MEV-aware Solana client infrastructure for advanced execution agents.
-* [Solana Kit](https://github.com/anza-xyz/kit) ⭐ 702 | 🐛 56 | 🌐 TypeScript | 📅 2026-11-04 - Modern Solana client SDK stack for building high-quality applications and agents.
-* [Metaplex](https://github.com/metaplex-foundation/metaplex-program-library) ⭐ 643 | 🐛 38 | 🌐 Rust | 📅 2026-11-02 - Solana programs for NFTs and digital assets used in agent identity.
-* [Awesome Solana AI](https://github.com/solana-foundation/awesome-solana-ai) ⭐ 432 | 🐛 132 | 📅 2026-09-26 - Solana Foundation's curated list of AI-Solana projects.
+* [Yellowstone gRPC](https://github.com/rpcpool/yellowstone-grpc) ⭐ 1,019 | 🐛 30 | 🌐 Rust | 📅 2026-11-05 - High-throughput real-time Solana data streams for low-latency agents and indexers.
+* [GOAT SDK](https://github.com/goat-sdk/goat) ⭐ 1,016 | 🐛 82 | 🌐 TypeScript | 📅 2026-07-02 - Open-source toolkit connecting AI agents to 200+ on-chain tools across Solana and EVM chains.
+* [Jito-Solana](https://github.com/jito-foundation/jito-solana) ⭐ 765 | 🐛 33 | 🌐 Rust | 📅 2026-11-05 - MEV-aware Solana client infrastructure for advanced execution agents.
+* [Solana Kit](https://github.com/anza-xyz/kit) ⭐ 702 | 🐛 55 | 🌐 TypeScript | 📅 2026-11-05 - Modern Solana client SDK stack for building high-quality applications and agents.
+* [Metaplex](https://github.com/metaplex-foundation/metaplex-program-library) ⭐ 644 | 🐛 38 | 🌐 Rust | 📅 2026-11-02 - Solana programs for NFTs and digital assets used in agent identity.
+* [Awesome Solana AI](https://github.com/solana-foundation/awesome-solana-ai) ⭐ 433 | 🐛 133 | 📅 2026-09-26 - Solana Foundation's curated list of AI-Solana projects.
 * [Light Protocol](https://github.com/Lightprotocol/light-protocol) ⭐ 339 | 🐛 133 | 🌐 Rust | 📅 2026-10-14 - ZK compression for scalable on-chain agent state.
-* [Helius SDK](https://github.com/helius-labs/helius-sdk) ⭐ 294 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-29 - TypeScript SDK for Solana RPC, webhooks, and DAS API.
-* [Pyth Crosschain](https://github.com/pyth-network/pyth-crosschain) ⭐ 252 | 🐛 157 | 🌐 TypeScript | 📅 2026-11-04 - Oracle infrastructure for low-latency market data used by agent strategies.
+* [Helius SDK](https://github.com/helius-labs/helius-sdk) ⭐ 294 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-05 - TypeScript SDK for Solana RPC, webhooks, and DAS API.
+* [Pyth Crosschain](https://github.com/pyth-network/pyth-crosschain) ⭐ 255 | 🐛 156 | 🌐 TypeScript | 📅 2026-11-05 - Oracle infrastructure for low-latency market data used by agent strategies.
 * [Solana Actions](https://github.com/solana-developers/solana-actions) ⭐ 145 | 🐛 21 | 🌐 TypeScript | 📅 2024-11-11 - Spec and tools for blockchain-powered actions and blinks.
 * [Switchboard Solana SDK](https://github.com/switchboard-xyz/solana-sdk) ⭐ 114 | 🐛 55 | 🌐 Rust | 📅 2026-08-26 - Verifiable oracle and data-feed SDK for agent decision systems.
 * [Jupiter Swap API Docs](https://dev.jup.ag/docs/swap) - Official documentation for integrating Jupiter routing and swaps.
@@ -448,9 +448,9 @@ Tools and SDKs for building AI agents on Solana.
 
 On-chain identity, wallets, and trust infrastructure for autonomous AI agents.
 
-* [Safe](https://github.com/safe-fndn/safe-smart-account) ⭐ 2,190 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-30 - Multi-signature smart account for EVM agent treasuries.
+* [Safe](https://github.com/safe-fndn/safe-smart-account) ⭐ 2,190 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-30 - Multi-signature smart account for EVM agent treasuries.
 * [Solana Agent Identity](https://github.com/sendaifun/solana-agent-kit) ⭐ 1,732 | 🐛 84 | 🌐 TypeScript | 📅 2026-05-14 - Agent wallet and identity features in Solana Agent Kit.
-* [Coinbase AgentKit](https://github.com/coinbase/agentkit) ⭐ 1,353 | 🐛 468 | 🌐 TypeScript | 📅 2026-10-14 - Toolkit for giving AI agents programmable wallet capabilities.
+* [Coinbase AgentKit](https://github.com/coinbase/agentkit) ⭐ 1,354 | 🐛 470 | 🌐 TypeScript | 📅 2026-10-14 - Toolkit for giving AI agents programmable wallet capabilities.
 * [UCAN](https://github.com/ucan-wg/spec) ⭐ 298 | 🐛 22 | 📅 2026-10-22 - User-controlled authorization for decentralized agent capabilities.
 * [Squads Protocol](https://github.com/Squads-Protocol/v4) ⭐ 203 | 🐛 29 | 🌐 HTML | 📅 2026-10-30 - Multisig and smart account protocol for Solana agents.
 * [Sign-In With Solana](https://github.com/phantom/sign-in-with-solana) ⭐ 158 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-18 - Wallet-native authentication pattern for Solana apps and agents.
@@ -471,8 +471,8 @@ On-chain identity, wallets, and trust infrastructure for autonomous AI agents.
 Payment protocols and infrastructure for autonomous agent transactions.
 
 * [Google A2A x402 Extension](https://github.com/google-agentic-commerce/a2a-x402) ⭐ 572 | 🐛 76 | 🌐 Python | 📅 2026-08-04 - Cryptocurrency payments for the Agent-to-Agent protocol via x402.
-* [x402 Protocol](https://github.com/coinbase/x402) ⭐ 178 | 🐛 246 | 🌐 TypeScript | 📅 2026-11-03 - Open HTTP payment protocol using the 402 status code for agent-to-service payments.
-* [Awesome Agentic Commerce](https://github.com/Merit-Systems/awesome-agentic-commerce) ⭐ 153 | 🐛 416 | 📅 2026-07-29 - Curated directory of agent payments and commerce protocols, including x402.
+* [x402 Protocol](https://github.com/coinbase/x402) ⭐ 180 | 🐛 246 | 🌐 TypeScript | 📅 2026-11-06 - Open HTTP payment protocol using the 402 status code for agent-to-service payments.
+* [Awesome Agentic Commerce](https://github.com/Merit-Systems/awesome-agentic-commerce) ⭐ 153 | 🐛 417 | 📅 2026-07-29 - Curated directory of agent payments and commerce protocols, including x402.
 * [Coinbase Agentic Wallets](https://www.coinbase.com/developer-platform/discover/launches/agentic-wallets) - Wallet infrastructure for AI agents with programmable spending limits.
 * [lobster.cash](https://www.lobster.cash) - Agent payment solution on Solana with Visa Intelligent Commerce integration by Crossmint.
 * [Request Network](https://request.network) - Crypto-native invoicing and payment request rails for agent billing workflows.
@@ -484,10 +484,10 @@ Payment protocols and infrastructure for autonomous agent transactions.
 
 AI agents for decentralized finance operations and strategy.
 
-* [ElizaOS DeFi Plugins](https://github.com/elizaOS/eliza/tree/main/packages) ⭐ 19,769 | 🐛 338 | 🌐 TypeScript | 📅 2026-11-04 - DeFi protocol integrations for ElizaOS agents.
+* [ElizaOS DeFi Plugins](https://github.com/elizaOS/eliza/tree/main/packages) ⭐ 19,774 | 🐛 402 | 🌐 TypeScript | 📅 2026-11-06 - DeFi protocol integrations for ElizaOS agents.
 * [Orca Whirlpools SDK](https://github.com/orca-so/whirlpools) ⭐ 564 | 🐛 71 | 🌐 TypeScript | 📅 2026-11-03 - Solana concentrated liquidity SDK for agent strategies.
 * [Drift Protocol v2](https://github.com/drift-labs/protocol-v2) ⚠️ Archived - On-chain perpetuals protocol infrastructure for autonomous trading agents.
-* [Raydium SDK](https://github.com/raydium-io/raydium-sdk-V2) ⭐ 350 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-03 - Solana AMM SDK for agent-driven liquidity provision.
+* [Raydium SDK](https://github.com/raydium-io/raydium-sdk-V2) ⭐ 350 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-05 - Solana AMM SDK for agent-driven liquidity provision.
 * [Yearn Vaults](https://github.com/yearn/yearn-vaults-v3) ⭐ 181 | 🐛 6 | 🌐 Python | 📅 2026-10-22 - Automated yield vaults usable as agent strategy backends.
 * [Autonolas](https://github.com/valory-xyz/open-autonomy) ⭐ 137 | 🐛 12 | 🌐 Python | 📅 2026-11-04 - Framework for building autonomous agent services on-chain.
 * [Kamino KLend SDK](https://github.com/Kamino-Finance/klend-sdk) ⭐ 61 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-20 - Lending protocol SDK for credit and yield allocation agents.
@@ -501,37 +501,37 @@ AI agents for decentralized finance operations and strategy.
 
 Quantitative finance frameworks and AI-driven trading systems.
 
-* [TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ 120,643 | 🐛 120 | 🌐 Python | 📅 2026-11-04 - Multi-agent LLM framework simulating a trading firm.
-* [Freqtrade](https://github.com/freqtrade/freqtrade) ⭐ 56,446 | 🐛 24 | 🌐 Python | 📅 2026-11-04 - Open-source algorithmic trading bot in Python.
-* [Qlib](https://github.com/microsoft/qlib) ⭐ 49,996 | 🐛 516 | 🌐 Python | 📅 2026-11-04 - AI-oriented quantitative investment platform from Microsoft.
-* [NautilusTrader](https://github.com/nautechsystems/nautilus_trader) ⭐ 31,239 | 🐛 147 | 🌐 Rust | 📅 2026-11-05 - High-performance algorithmic trading platform in Rust and Python.
-* [Lean](https://github.com/QuantConnect/Lean) ⭐ 22,389 | 🐛 297 | 🌐 C# | 📅 2026-11-04 - Algorithmic trading engine by QuantConnect.
-* [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 21,523 | 🐛 53 | 🌐 Jupyter Notebook | 📅 2026-10-25 - Open-source financial LLM framework.
-* [Hummingbot](https://github.com/hummingbot/hummingbot) ⭐ 20,942 | 🐛 203 | 🌐 Python | 📅 2026-11-04 - Open-source market making and arbitrage bot.
-* [FinRL](https://github.com/AI4Finance-Foundation/FinRL) ⭐ 16,991 | 🐛 313 | 🌐 Jupyter Notebook | 📅 2026-11-03 - Deep reinforcement learning library for quantitative finance.
-* [VectorBT](https://github.com/polakowo/vectorbt) ⭐ 9,683 | 🐛 135 | 🌐 Python | 📅 2026-11-03 - Fast backtesting and analysis library for trading strategies.
-* [Zipline](https://github.com/stefan-jansen/zipline-reloaded) ⭐ 1,997 | 🐛 2 | 🌐 Python | 📅 2026-11-02 - Pythonic algorithmic trading library for backtesting.
+* [TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ 120,833 | 🐛 123 | 🌐 Python | 📅 2026-11-04 - Multi-agent LLM framework simulating a trading firm.
+* [Freqtrade](https://github.com/freqtrade/freqtrade) ⭐ 56,505 | 🐛 24 | 🌐 Python | 📅 2026-11-05 - Open-source algorithmic trading bot in Python.
+* [Qlib](https://github.com/microsoft/qlib) ⭐ 50,031 | 🐛 517 | 🌐 Python | 📅 2026-11-04 - AI-oriented quantitative investment platform from Microsoft.
+* [NautilusTrader](https://github.com/nautechsystems/nautilus_trader) ⭐ 31,270 | 🐛 150 | 🌐 Rust | 📅 2026-11-06 - High-performance algorithmic trading platform in Rust and Python.
+* [Lean](https://github.com/QuantConnect/Lean) ⭐ 22,403 | 🐛 295 | 🌐 C# | 📅 2026-11-05 - Algorithmic trading engine by QuantConnect.
+* [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 21,529 | 🐛 53 | 🌐 Jupyter Notebook | 📅 2026-10-25 - Open-source financial LLM framework.
+* [Hummingbot](https://github.com/hummingbot/hummingbot) ⭐ 20,958 | 🐛 204 | 🌐 Python | 📅 2026-11-04 - Open-source market making and arbitrage bot.
+* [FinRL](https://github.com/AI4Finance-Foundation/FinRL) ⭐ 17,001 | 🐛 314 | 🌐 Jupyter Notebook | 📅 2026-11-03 - Deep reinforcement learning library for quantitative finance.
+* [VectorBT](https://github.com/polakowo/vectorbt) ⭐ 9,693 | 🐛 135 | 🌐 Python | 📅 2026-11-03 - Fast backtesting and analysis library for trading strategies.
+* [Zipline](https://github.com/stefan-jansen/zipline-reloaded) ⭐ 2,002 | 🐛 2 | 🌐 Python | 📅 2026-11-02 - Pythonic algorithmic trading library for backtesting.
 * [Phoenix v1](https://github.com/Ellipsis-Labs/phoenix-v1) ⭐ 279 | 🐛 13 | 🌐 Rust | 📅 2026-10-09 - On-chain central limit order book protocol for low-latency execution agents.
 * [DriftPy](https://github.com/drift-labs/driftpy) ⚠️ Archived - Python SDK for building Solana-based perp and risk management agents.
-* [BitQuant](https://github.com/OpenGradient/BitQuant) ⭐ 58 | 🐛 7 | 🌐 Python | 📅 2026-08-05 - Multi-agent quantitative analysis framework.
+* [BitQuant](https://github.com/OpenGradient/BitQuant) ⭐ 58 | 🐛 8 | 🌐 Python | 📅 2026-08-05 - Multi-agent quantitative analysis framework.
 
 ## Agent Observability and Testing
 
 Debugging, tracing, evaluation, and testing tools for AI agents.
 
-* [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 62,716 | 🐛 5,720 | 🌐 Python | 📅 2026-11-05 - LLM gateway and proxy with logging, cost tracking, and routing controls.
-* [LangFuse](https://github.com/langfuse/langfuse) ⭐ 37,017 | 🐛 1,112 | 🌐 TypeScript | 📅 2026-11-04 - Open-source LLM engineering platform for tracing and evaluation.
-* [SigNoz](https://github.com/SigNoz/signoz) ⭐ 32,529 | 🐛 1,599 | 🌐 TypeScript | 📅 2026-11-04 - OpenTelemetry-native observability platform for traces, logs, and metrics.
-* [Opik](https://github.com/comet-ml/opik) ⭐ 23,180 | 🐛 208 | 🌐 Python | 📅 2026-11-05 - Open-source platform for LLM and agent tracing, evaluation, and monitoring.
-* [OpenAI Evals](https://github.com/openai/evals) ⭐ 19,707 | 🐛 350 | 🌐 Python | 📅 2026-04-14 - Framework and benchmark registry for evaluating LLM systems.
-* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 19,295 | 🐛 806 | 🌐 Python | 📅 2026-11-04 - Open-source LLM evaluation framework.
-* [Portkey](https://github.com/Portkey-AI/gateway) ⭐ 13,325 | 🐛 326 | 🌐 TypeScript | 📅 2026-05-25 - AI gateway with observability, caching, and fallback routing.
-* [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,144 | 🐛 1,223 | 🌐 Python | 📅 2026-11-05 - Open-source AI observability platform from Arize.
-* [OpenLLMetry](https://github.com/traceloop/openllmetry) ⭐ 7,521 | 🐛 836 | 🌐 Python | 📅 2026-11-04 - OpenTelemetry-based observability for LLM applications.
-* [Helicone](https://github.com/Helicone/helicone) ⭐ 6,265 | 🐛 188 | 🌐 TypeScript | 📅 2026-10-28 - Open-source LLM observability and monitoring platform.
-* [AgentOps](https://github.com/AgentOps-AI/agentops) ⭐ 5,946 | 🐛 200 | 🌐 Python | 📅 2026-06-25 - Monitoring, cost tracking, and benchmarking for agent workflows.
-* [TruLens](https://github.com/truera/trulens) ⭐ 3,629 | 🐛 141 | 🌐 Python | 📅 2026-11-04 - Open-source framework for evaluating and tracking LLM and agent experiments.
-* [Weave](https://github.com/wandb/weave) ⭐ 1,146 | 🐛 170 | 🌐 Python | 📅 2026-11-04 - Toolkit for tracking and evaluating LLM applications from W\&B.
+* [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 62,790 | 🐛 5,724 | 🌐 Python | 📅 2026-11-06 - LLM gateway and proxy with logging, cost tracking, and routing controls.
+* [LangFuse](https://github.com/langfuse/langfuse) ⭐ 37,067 | 🐛 1,134 | 🌐 TypeScript | 📅 2026-11-05 - Open-source LLM engineering platform for tracing and evaluation.
+* [SigNoz](https://github.com/SigNoz/signoz) ⭐ 32,532 | 🐛 1,602 | 🌐 TypeScript | 📅 2026-11-05 - OpenTelemetry-native observability platform for traces, logs, and metrics.
+* [Opik](https://github.com/comet-ml/opik) ⭐ 23,208 | 🐛 191 | 🌐 Python | 📅 2026-11-06 - Open-source platform for LLM and agent tracing, evaluation, and monitoring.
+* [OpenAI Evals](https://github.com/openai/evals) ⭐ 19,710 | 🐛 350 | 🌐 Python | 📅 2026-04-14 - Framework and benchmark registry for evaluating LLM systems.
+* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 19,320 | 🐛 807 | 🌐 Python | 📅 2026-11-05 - Open-source LLM evaluation framework.
+* [Portkey](https://github.com/Portkey-AI/gateway) ⭐ 13,328 | 🐛 327 | 🌐 TypeScript | 📅 2026-05-25 - AI gateway with observability, caching, and fallback routing.
+* [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,165 | 🐛 1,204 | 🌐 Python | 📅 2026-11-06 - Open-source AI observability platform from Arize.
+* [OpenLLMetry](https://github.com/traceloop/openllmetry) ⭐ 7,523 | 🐛 839 | 🌐 Python | 📅 2026-11-05 - OpenTelemetry-based observability for LLM applications.
+* [Helicone](https://github.com/Helicone/helicone) ⭐ 6,269 | 🐛 188 | 🌐 TypeScript | 📅 2026-10-28 - Open-source LLM observability and monitoring platform.
+* [AgentOps](https://github.com/AgentOps-AI/agentops) ⭐ 5,950 | 🐛 200 | 🌐 Python | 📅 2026-06-25 - Monitoring, cost tracking, and benchmarking for agent workflows.
+* [TruLens](https://github.com/truera/trulens) ⭐ 3,629 | 🐛 147 | 🌐 Python | 📅 2026-11-05 - Open-source framework for evaluating and tracking LLM and agent experiments.
+* [Weave](https://github.com/wandb/weave) ⭐ 1,145 | 🐛 170 | 🌐 Python | 📅 2026-11-06 - Toolkit for tracking and evaluating LLM applications from W\&B.
 * [ax](https://github.com/Necmttn/ax) ⭐ 122 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-28 - Local telemetry, recall, cost, skill, routing, and hook analytics for AI coding agents.
 * [Braintrust](https://www.braintrust.dev) - Evaluation and observability platform for AI products.
 * [LangSmith](https://smith.langchain.com) - Platform for debugging, testing, and monitoring LLM applications.
@@ -542,7 +542,7 @@ Curated papers on AI agents, multi-agent systems, and agent infrastructure.
 
 * [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432) - Comprehensive survey of LLM-based agent architectures.
 * [ArXiv Deep Research Map (this repo)](guides/arxiv-deep-research-map.md) - Category-by-category reading map spanning frameworks, coding, MCP/tool use, memory, security, multimodal, and quant/on-chain adjacent domains.
-* [Awesome AI Agent Papers](https://github.com/VoltAgent/awesome-ai-agent-papers) ⭐ 1,888 | 🐛 2 | 📅 2026-11-02 - Continuously updated collection of agent research papers.
+* [Awesome AI Agent Papers](https://github.com/VoltAgent/awesome-ai-agent-papers) ⭐ 1,889 | 🐛 4 | 📅 2026-11-02 - Continuously updated collection of agent research papers.
 * [Chain-of-Thought Prompting](https://arxiv.org/abs/2201.11903) - Foundational paper on reasoning in language models.
 * [Generative Agents](https://arxiv.org/abs/2304.03442) - Simulating human behavior with LLM-driven agents in a sandbox.
 * [MemGPT](https://arxiv.org/abs/2310.08560) - OS-inspired memory management for LLM context windows.
@@ -591,4 +591,4 @@ Released under [CC0 1.0 Universal](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
